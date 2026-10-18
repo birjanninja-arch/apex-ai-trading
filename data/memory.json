@@ -1,0 +1,36 @@
+{
+  "phases": {
+    "XAUUSD": {
+      "phase": "markdown",
+      "ad": -0.6895388076490244,
+      "trend": "DOWN",
+      "transition": null,
+      "created_at": 1792318326.437851
+    },
+    "XAGUSD": {
+      "phase": "markdown",
+      "ad": -0.6113636363636389,
+      "trend": "DOWN",
+      "transition": null,
+      "created_at": 1792318326.4298553
+    }
+  },
+  "sequences": {},
+  "levels": {
+    "XAUUSD": {
+      "level": 100,
+      "direction": "BUY",
+      "reasons": [],
+      "created_at": 1792318326.4816246
+    },
+    "XAGUSD": {
+      "level": 100,
+      "direction": "BUY",
+      "reasons": [],
+      "created_at": 1792318326.4566407
+    }
+  },
+  "recent_signals": {},
+  "sent_signals": {},
+  "wait_signals": {}
+}

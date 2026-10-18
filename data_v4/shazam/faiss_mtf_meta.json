@@ -1,0 +1,18 @@
+{
+  "dim": 198,
+  "n": 1322,
+  "cfg": {
+    "window_m15": 64,
+    "window_h1": 48,
+    "window_h4": 32,
+    "step_size": 6,
+    "harmonics": 12,
+    "max_peaks": 16,
+    "lookahead_m15": 12,
+    "up_thresh": 0.003,
+    "down_thresh": 0.003,
+    "top_k": 80,
+    "min_similarity": 0.12
+  },
+  "backend": "faiss"
+}

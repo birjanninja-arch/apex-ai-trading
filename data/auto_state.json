@@ -1,0 +1,8 @@
+{
+  "mode": "MANUAL",
+  "enabled": false,
+  "daily_trades": 0,
+  "daily_loss": 0.0,
+  "day_start": 0,
+  "positions": []
+}

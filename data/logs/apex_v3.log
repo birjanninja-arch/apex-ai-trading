@@ -1,0 +1,2184 @@
+2026-10-16 15:14:38,803 | WARNING | ⚠️ stable-baselines3/gymnasium жоқ — RL өшірулі
+2026-10-16 15:14:38,857 | WARNING | ⚠️ edge-tts жоқ
+2026-10-16 15:14:38,859 | WARNING | ⚠️ LLM unavailable (set XAI_API_KEY or GROQ_API_KEY)
+2026-10-16 15:14:38,863 | WARNING | ⚠️ FastAPI жоқ — TV Bridge өшірулі
+2026-10-16 15:14:38,864 | INFO | ============================================================
+2026-10-16 15:14:38,864 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-16 15:14:38,884 | INFO | ============================================================
+2026-10-16 15:14:43,153 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-16 15:14:43,154 | INFO | 
+📂 Күйді жүктеу...
+2026-10-16 15:14:43,160 | INFO | Жады: 0 фаза
+2026-10-16 15:14:43,163 | INFO | 🚫 Filter өшірілген: 0
+2026-10-16 15:14:43,165 | INFO | 📈 Metrics: 0W / 0L
+2026-10-16 15:14:43,880 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-16 15:14:44,531 | INFO | ✅ Data DB OK
+2026-10-16 15:14:44,761 | INFO | 
+📂 Categories:
+2026-10-16 15:14:47,293 | INFO |   📂 crypto: 0/8
+2026-10-16 15:14:47,309 | INFO |   📂 metals: 2/2
+2026-10-16 15:14:47,317 | INFO |   📂 energies: 0/3
+2026-10-16 15:14:47,363 | INFO |   📂 indices: 4/6
+2026-10-16 15:14:47,364 | INFO |   📂 forex: 15/15
+2026-10-16 15:14:47,368 | INFO | ✅ Categories: 21 symbols
+2026-10-16 15:14:47,418 | INFO | 
+🎓 Learning...
+2026-10-16 15:14:47,420 | INFO | 🎓 БІРІНШІ BACKTEST (3 ай)...
+2026-10-16 15:16:58,802 | INFO |   [9/34] XAUUSD — 13
+2026-10-16 15:19:00,133 | INFO |   [10/34] XAGUSD — 13
+2026-10-16 15:21:40,861 | INFO |   [14/34] US30 — 14
+2026-10-16 15:24:56,851 | INFO |   [15/34] US500 — 13
+2026-10-16 15:27:21,867 | INFO |   [16/34] USTEC — 11
+2026-10-16 15:31:57,738 | INFO |   [18/34] UK100 — 13
+2026-10-16 15:36:09,334 | INFO |   [20/34] EURUSD — 13
+2026-10-16 15:39:47,546 | INFO |   [21/34] GBPUSD — 13
+2026-10-16 15:43:04,729 | INFO |   [22/34] USDJPY — 13
+2026-10-16 16:02:18,739 | WARNING | ⚠️ stable-baselines3/gymnasium жоқ — RL өшірулі
+2026-10-16 16:02:18,742 | WARNING | ⚠️ edge-tts жоқ
+2026-10-16 16:02:18,742 | WARNING | ⚠️ LLM unavailable (set XAI_API_KEY or GROQ_API_KEY)
+2026-10-16 16:02:18,743 | WARNING | ⚠️ FastAPI жоқ — TV Bridge өшірулі
+2026-10-16 16:02:18,744 | INFO | ============================================================
+2026-10-16 16:02:18,744 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-16 16:02:18,744 | INFO | ============================================================
+2026-10-16 16:02:19,312 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-16 16:02:19,312 | INFO | 
+📂 Күйді жүктеу...
+2026-10-16 16:02:19,313 | INFO | Жады: 0 фаза
+2026-10-16 16:02:19,314 | INFO | 🚫 Filter өшірілген: 0
+2026-10-16 16:02:19,316 | INFO | 📈 Metrics: 0W / 0L
+2026-10-16 16:02:19,344 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-16 16:02:19,362 | INFO | ✅ Data DB OK
+2026-10-16 16:02:19,367 | INFO | 
+📂 Categories:
+2026-10-16 16:02:19,635 | INFO |   📂 crypto: 0/8
+2026-10-16 16:02:19,635 | INFO |   📂 metals: 2/2
+2026-10-16 16:02:19,637 | INFO |   📂 energies: 0/3
+2026-10-16 16:02:19,639 | INFO |   📂 indices: 4/6
+2026-10-16 16:02:19,640 | INFO |   📂 forex: 15/15
+2026-10-16 16:02:19,641 | INFO | ✅ Categories: 21 symbols
+2026-10-16 16:02:19,663 | INFO | 
+🎓 Learning...
+2026-10-16 16:02:19,663 | INFO | 🎓 БІРІНШІ BACKTEST (3 ай)...
+2026-10-16 16:04:28,246 | INFO |   [9/34] XAUUSD — 13
+2026-10-16 16:06:32,790 | INFO |   [10/34] XAGUSD — 13
+2026-10-16 16:09:21,272 | INFO |   [14/34] US30 — 14
+2026-10-16 16:12:14,039 | INFO |   [15/34] US500 — 13
+2026-10-16 16:13:58,956 | INFO |   [16/34] USTEC — 11
+2026-10-16 16:16:54,356 | INFO |   [18/34] UK100 — 13
+2026-10-16 16:19:43,563 | INFO |   [20/34] EURUSD — 13
+2026-10-16 16:22:26,536 | INFO |   [21/34] GBPUSD — 13
+2026-10-16 16:25:10,844 | INFO |   [22/34] USDJPY — 13
+2026-10-16 16:27:56,365 | INFO |   [23/34] GBPJPY — 13
+2026-10-16 16:30:25,816 | INFO |   [24/34] AUDUSD — 13
+2026-10-16 16:33:10,551 | INFO |   [25/34] USDCAD — 13
+2026-10-16 16:35:55,700 | INFO |   [26/34] USDCHF — 13
+2026-10-16 16:38:12,346 | INFO |   [27/34] NZDUSD — 13
+2026-10-16 16:40:38,175 | INFO |   [28/34] AUDCAD — 13
+2026-10-16 16:43:13,665 | INFO |   [29/34] AUDCHF — 13
+2026-10-16 16:45:49,051 | INFO |   [30/34] AUDJPY — 13
+2026-10-16 16:48:17,039 | INFO |   [31/34] AUDNZD — 13
+2026-10-16 16:50:56,538 | INFO |   [32/34] EURGBP — 13
+2026-10-16 16:53:44,230 | INFO |   [33/34] EURJPY — 14
+2026-10-16 16:56:46,685 | INFO |   [34/34] GBPCHF — 13
+2026-10-16 16:56:46,690 | INFO | ✅ Learning: 21 актив
+2026-10-16 16:56:46,692 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-16 16:56:46,695 | INFO | ✅ Data collector
+2026-10-16 16:56:46,742 | INFO | ✅ ML trainer (XGBoost)
+2026-10-16 16:56:46,745 | INFO | ✅ TG worker
+2026-10-16 16:56:46,749 | INFO | ✅ CB worker | Security: [528379915]
+2026-10-16 16:56:46,752 | INFO | ✅ Heartbeat + Trailing
+2026-10-16 16:56:46,752 | WARNING | ⚠️ Groq API кілт жоқ — LLM өшірулі
+2026-10-16 16:56:46,753 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-16 16:56:46,755 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-16 16:56:46,756 | WARNING | ⚠️ FastAPI жоқ — TV Bridge өшірулі
+2026-10-16 16:56:46,759 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-16 16:56:46,761 | INFO | ⏸ RL өшірулі (SB3 жоқ)
+2026-10-16 16:56:46,764 | INFO | ✅ Ablation test іске қосылды
+2026-10-16 16:56:46,765 | INFO | 
+✅ Mode: MANUAL
+2026-10-16 16:56:46,766 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-16 16:56:46,766 | INFO | ✅ Security: [528379915]
+2026-10-16 16:56:46,767 | INFO | ✅ LLM: OFF
+2026-10-16 16:56:46,768 | INFO | ✅ Voice: OFF
+2026-10-16 16:56:46,769 | INFO | ✅ TV Bridge: OFF
+2026-10-16 16:56:46,770 | INFO | ✅ RL Agent: OFF
+2026-10-16 16:56:46,770 | INFO | ✅ Hedge: ON
+2026-10-16 16:56:46,771 | INFO | ✅ Filters disabled: жоқ
+2026-10-16 16:56:46,772 | INFO | ============================================================
+2026-10-16 16:56:46,773 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-16 16:56:47,000 | INFO | ✅ Data DB OK
+2026-10-16 16:56:47,209 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-16 17:06:12,863 | ERROR | TG: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 17:06:13,117 | ERROR | CB: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 17:10:30,962 | INFO | 🔁 Fractal Medium cycle (6с) — LLM талдау
+2026-10-16 17:14:09,723 | INFO | 🔁 Fractal Large cycle (24с) — ML retrain
+2026-10-16 17:19:05,782 | INFO | 🔁 Fractal Mega cycle (7к) — толық backtest
+2026-10-16 17:20:50,974 | INFO | 🔄 Incremental (0.4с)...
+2026-10-16 17:20:50,996 | WARNING | ⚠️ Деректер аз
+2026-10-16 17:23:00,614 | ERROR | TG: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 17:23:02,186 | ERROR | CB: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 17:34:53,867 | WARNING | ⚠️ stable-baselines3/gymnasium жоқ — RL өшірулі
+2026-10-16 17:34:53,890 | WARNING | ⚠️ edge-tts жоқ
+2026-10-16 17:34:53,893 | WARNING | ⚠️ LLM unavailable (set XAI_API_KEY or GROQ_API_KEY)
+2026-10-16 17:35:07,631 | INFO | ============================================================
+2026-10-16 17:35:07,632 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-16 17:35:07,634 | INFO | ============================================================
+2026-10-16 17:35:08,654 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-16 17:35:08,655 | INFO | 
+📂 Күйді жүктеу...
+2026-10-16 17:35:08,672 | INFO | Жады: 0 фаза
+2026-10-16 17:35:08,674 | INFO | 🚫 Filter өшірілген: 0
+2026-10-16 17:35:08,675 | INFO | 📈 Metrics: 0W / 0L
+2026-10-16 17:35:09,034 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-16 17:35:09,052 | INFO | ✅ Data DB OK
+2026-10-16 17:35:09,119 | INFO | 
+📂 Categories:
+2026-10-16 17:35:09,861 | INFO |   📂 crypto: 0/8
+2026-10-16 17:35:09,862 | INFO |   📂 metals: 2/2
+2026-10-16 17:35:09,863 | INFO |   📂 energies: 0/3
+2026-10-16 17:35:09,866 | INFO |   📂 indices: 4/6
+2026-10-16 17:35:09,867 | INFO |   📂 forex: 15/15
+2026-10-16 17:35:09,868 | INFO | ✅ Categories: 21 symbols
+2026-10-16 17:35:09,888 | INFO | 
+🎓 Learning...
+2026-10-16 17:35:09,902 | INFO | 📂 Learning: 15 паттерн (0.6с)
+2026-10-16 17:35:09,903 | INFO | ✅ Learning тексерілген (0.6с)
+2026-10-16 17:35:09,903 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-16 17:35:09,905 | INFO | ✅ Data collector
+2026-10-16 17:35:09,906 | INFO | ✅ ML trainer (XGBoost)
+2026-10-16 17:35:09,907 | INFO | ✅ Data DB OK
+2026-10-16 17:35:09,907 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-16 17:35:09,908 | INFO | ✅ TG worker
+2026-10-16 17:35:09,910 | INFO | ✅ CB worker | Security: [528379915]
+2026-10-16 17:35:09,914 | INFO | ✅ Heartbeat + Trailing
+2026-10-16 17:35:09,914 | WARNING | ⚠️ Groq API кілт жоқ — LLM өшірулі
+2026-10-16 17:35:09,917 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-16 17:35:09,924 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-16 17:35:09,929 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-16 17:35:09,930 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-16 17:35:09,934 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-16 17:35:09,935 | INFO | ⏸ RL өшірулі (SB3 жоқ)
+2026-10-16 17:35:09,937 | INFO | ✅ Ablation test іске қосылды
+2026-10-16 17:35:09,937 | INFO | 
+✅ Mode: MANUAL
+2026-10-16 17:35:09,939 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-16 17:35:09,981 | INFO | ✅ Security: [528379915]
+2026-10-16 17:35:09,982 | INFO | ✅ LLM: OFF
+2026-10-16 17:35:09,984 | INFO | ✅ Voice: OFF
+2026-10-16 17:35:09,987 | INFO | ✅ TV Bridge: ON
+2026-10-16 17:35:09,990 | INFO | ✅ RL Agent: OFF
+2026-10-16 17:35:09,990 | INFO | ✅ Hedge: ON
+2026-10-16 17:35:09,991 | INFO | ✅ Filters disabled: жоқ
+2026-10-16 17:35:09,991 | INFO | ============================================================
+2026-10-16 17:35:09,992 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-16 17:38:15,878 | ERROR | TG: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 17:38:43,765 | ERROR | CB: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 17:47:10,641 | WARNING | ⚠️ stable-baselines3/gymnasium жоқ — RL өшірулі
+2026-10-16 17:47:10,730 | WARNING | ⚠️ edge-tts жоқ
+2026-10-16 17:47:10,732 | WARNING | ⚠️ LLM unavailable (set XAI_API_KEY or GROQ_API_KEY)
+2026-10-16 17:47:20,779 | INFO | ============================================================
+2026-10-16 17:47:20,781 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-16 17:47:20,782 | INFO | ============================================================
+2026-10-16 17:47:35,722 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-16 17:47:35,723 | INFO | 
+📂 Күйді жүктеу...
+2026-10-16 17:47:35,802 | INFO | Жады: 8 фаза
+2026-10-16 17:47:35,806 | INFO | 🚫 Filter өшірілген: 0
+2026-10-16 17:47:35,808 | INFO | 📈 Metrics: 0W / 0L
+2026-10-16 17:47:36,030 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-16 17:47:36,222 | INFO | ✅ Data DB OK
+2026-10-16 17:47:36,277 | INFO | 
+📂 Categories:
+2026-10-16 17:47:36,496 | INFO |   📂 crypto: 0/8
+2026-10-16 17:47:36,497 | INFO |   📂 metals: 2/2
+2026-10-16 17:47:36,497 | INFO |   📂 energies: 0/3
+2026-10-16 17:47:36,498 | INFO |   📂 indices: 4/6
+2026-10-16 17:47:36,499 | INFO |   📂 forex: 15/15
+2026-10-16 17:47:36,499 | INFO | ✅ Categories: 21 symbols
+2026-10-16 17:47:36,516 | INFO | 
+🎓 Learning...
+2026-10-16 17:47:36,711 | INFO | 📂 Learning: 15 паттерн (0.8с)
+2026-10-16 17:47:36,712 | INFO | ✅ Learning тексерілген (0.8с)
+2026-10-16 17:47:36,713 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-16 17:47:36,715 | INFO | ✅ Data collector
+2026-10-16 17:47:36,717 | INFO | ✅ ML trainer (XGBoost)
+2026-10-16 17:47:36,719 | INFO | ✅ Data DB OK
+2026-10-16 17:47:36,719 | INFO | ✅ TG worker
+2026-10-16 17:47:36,720 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-16 17:47:36,729 | INFO | ✅ CB worker | Security: [528379915]
+2026-10-16 17:47:36,732 | INFO | ✅ Heartbeat + Trailing
+2026-10-16 17:47:36,733 | WARNING | ⚠️ Groq API кілт жоқ — LLM өшірулі
+2026-10-16 17:47:36,735 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-16 17:47:36,740 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-16 17:47:36,744 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-16 17:47:36,745 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-16 17:47:36,749 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-16 17:47:36,751 | INFO | ⏸ RL өшірулі (SB3 жоқ)
+2026-10-16 17:47:36,757 | INFO | ✅ Ablation test іске қосылды
+2026-10-16 17:47:36,757 | INFO | 
+✅ Mode: MANUAL
+2026-10-16 17:47:36,760 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-16 17:47:36,761 | INFO | ✅ Security: [528379915]
+2026-10-16 17:47:36,762 | INFO | ✅ LLM: OFF
+2026-10-16 17:47:36,763 | INFO | ✅ Voice: OFF
+2026-10-16 17:47:36,764 | INFO | ✅ TV Bridge: ON
+2026-10-16 17:47:36,765 | INFO | ✅ RL Agent: OFF
+2026-10-16 17:47:36,766 | INFO | ✅ Hedge: ON
+2026-10-16 17:47:36,771 | INFO | ✅ Filters disabled: жоқ
+2026-10-16 17:47:36,774 | INFO | ============================================================
+2026-10-16 17:47:36,775 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-16 17:50:00,928 | INFO | 😱 FG: 63
+2026-10-16 17:50:01,443 | INFO | PREPARE: EURUSD — 120% (SELL)
+2026-10-16 17:50:42,794 | INFO | 🟡 WAIT: EURUSD — 120% (SELL)
+2026-10-16 17:52:33,653 | ERROR | CB: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 17:52:33,787 | INFO | 
+📥 Data collection...
+2026-10-16 17:54:20,463 | ERROR | TG: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 17:57:55,331 | INFO | 🔁 Fractal Medium cycle (6с) — LLM талдау
+2026-10-16 17:58:30,738 | INFO | 🔁 Fractal Large cycle (24с) — ML retrain
+2026-10-16 17:58:30,758 | INFO | PREPARE: AUDCAD — 120% (BUY)
+2026-10-16 17:58:30,761 | INFO | 🔁 Fractal Mega cycle (7к) — толық backtest
+2026-10-16 17:58:30,762 | INFO | SEQ: EURGBP — spring (BUY)
+2026-10-16 18:02:38,589 | INFO | 🔄 Incremental (1.1с)...
+2026-10-16 18:02:38,593 | WARNING | ⚠️ Деректер аз
+2026-10-16 18:02:38,593 | INFO | 🟡 WAIT: AUDCAD — 120% (BUY)
+2026-10-16 18:03:05,635 | ERROR | TG: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 18:03:14,659 | ERROR | CB: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 18:03:25,861 | INFO | PREPARE: NZDUSD — 120% (SELL)
+2026-10-16 18:03:25,891 | INFO | PREPARE: XAUUSD — 120% (SELL)
+2026-10-16 18:04:08,490 | INFO | 🟡 WAIT: NZDUSD — 120% (SELL)
+2026-10-16 18:04:08,523 | INFO | PREPARE: GBPUSD — 120% (SELL)
+2026-10-16 18:04:08,523 | INFO | PREPARE: AUDUSD — 120% (SELL)
+2026-10-16 18:04:08,587 | INFO | 🟡 WAIT: XAUUSD — 120% (SELL)
+2026-10-16 18:05:54,010 | INFO | 🟡 WAIT: GBPUSD — 120% (SELL)
+2026-10-16 18:10:50,476 | WARNING | ⚠️ stable-baselines3/gymnasium жоқ — RL өшірулі
+2026-10-16 18:10:50,499 | WARNING | ⚠️ edge-tts жоқ
+2026-10-16 18:10:50,501 | WARNING | ⚠️ LLM unavailable (set XAI_API_KEY or GROQ_API_KEY)
+2026-10-16 18:10:54,965 | INFO | ============================================================
+2026-10-16 18:10:54,965 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-16 18:10:54,966 | INFO | ============================================================
+2026-10-16 18:10:55,522 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-16 18:10:55,523 | INFO | 
+📂 Күйді жүктеу...
+2026-10-16 18:10:55,525 | INFO | Жады: 0 фаза
+2026-10-16 18:10:55,528 | INFO | 🚫 Filter өшірілген: 0
+2026-10-16 18:10:55,528 | INFO | 📈 Metrics: 0W / 0L
+2026-10-16 18:10:55,616 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-16 18:10:55,628 | INFO | ✅ Data DB OK
+2026-10-16 18:10:55,630 | INFO | 
+📂 Categories:
+2026-10-16 18:10:55,849 | INFO |   📂 crypto: 0/8
+2026-10-16 18:10:55,850 | INFO |   📂 metals: 2/2
+2026-10-16 18:10:55,852 | INFO |   📂 energies: 0/3
+2026-10-16 18:10:55,854 | INFO |   📂 indices: 4/6
+2026-10-16 18:10:55,855 | INFO |   📂 forex: 15/15
+2026-10-16 18:10:55,856 | INFO | ✅ Categories: 21 symbols
+2026-10-16 18:10:55,876 | INFO | 
+🎓 Learning...
+2026-10-16 18:10:55,895 | INFO | 📂 Learning: 15 паттерн (1.2с)
+2026-10-16 18:10:55,895 | INFO | ✅ Learning тексерілген (1.2с)
+2026-10-16 18:10:55,897 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-16 18:10:55,900 | INFO | ✅ Data collector
+2026-10-16 18:10:55,901 | INFO | ✅ ML trainer (XGBoost)
+2026-10-16 18:10:55,902 | INFO | ✅ Data DB OK
+2026-10-16 18:10:55,903 | INFO | ✅ TG worker
+2026-10-16 18:10:55,903 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-16 18:10:55,906 | INFO | ✅ CB worker | Security: [528379915]
+2026-10-16 18:10:55,908 | INFO | ✅ Heartbeat + Trailing
+2026-10-16 18:10:55,909 | WARNING | ⚠️ Groq API кілт жоқ — LLM өшірулі
+2026-10-16 18:10:55,913 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-16 18:10:55,915 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-16 18:10:55,916 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-16 18:10:55,917 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-16 18:10:55,920 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-16 18:10:55,921 | INFO | ⏸ RL өшірулі (SB3 жоқ)
+2026-10-16 18:10:55,923 | INFO | ✅ Ablation test іске қосылды
+2026-10-16 18:10:55,924 | INFO | 
+✅ Mode: MANUAL
+2026-10-16 18:10:55,924 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-16 18:10:55,925 | INFO | ✅ Security: [528379915]
+2026-10-16 18:10:55,926 | INFO | ✅ LLM: OFF
+2026-10-16 18:10:55,928 | INFO | ✅ Voice: OFF
+2026-10-16 18:10:55,930 | INFO | ✅ TV Bridge: ON
+2026-10-16 18:10:55,932 | INFO | ✅ RL Agent: OFF
+2026-10-16 18:10:55,934 | INFO | ✅ Hedge: ON
+2026-10-16 18:10:55,936 | INFO | ✅ Filters disabled: жоқ
+2026-10-16 18:10:55,939 | INFO | ============================================================
+2026-10-16 18:10:55,940 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-16 18:11:11,442 | INFO | PREPARE: EURUSD — 120% (SELL)
+2026-10-16 18:11:29,861 | INFO | 🟡 WAIT: EURUSD — 120% (SELL)
+2026-10-16 18:11:36,998 | INFO | PREPARE: XAUUSD — 120% (SELL)
+2026-10-16 18:11:41,833 | INFO | PREPARE: NZDUSD — 120% (SELL)
+2026-10-16 18:11:59,948 | INFO | 🟡 WAIT: XAUUSD — 120% (SELL)
+2026-10-16 18:12:00,001 | INFO | PREPARE: AUDUSD — 120% (SELL)
+2026-10-16 18:12:00,003 | INFO | PREPARE: AUDCAD — 120% (SELL)
+2026-10-16 18:12:00,004 | INFO | PREPARE: GBPUSD — 120% (SELL)
+2026-10-16 18:12:00,052 | INFO | 🟡 WAIT: NZDUSD — 120% (SELL)
+2026-10-16 18:12:05,632 | INFO | 🟡 WAIT: AUDCAD — 120% (SELL)
+2026-10-16 18:12:05,636 | INFO | 🟡 WAIT: AUDUSD — 120% (SELL)
+2026-10-16 18:12:14,598 | INFO | 🟡 WAIT: GBPUSD — 120% (SELL)
+2026-10-16 18:12:32,431 | INFO | SEQ: EURGBP — spring (BUY)
+2026-10-16 18:12:32,434 | INFO | PREPARE: USDCAD — 120% (BUY)
+2026-10-16 18:12:32,461 | INFO | 🟡 WAIT: USDCAD — 120% (BUY)
+2026-10-16 18:12:32,911 | INFO | 😱 FG: 63
+2026-10-16 18:12:42,552 | INFO | 
+📥 Data collection...
+2026-10-16 18:12:45,924 | INFO | 😱 FG: 63
+2026-10-16 18:12:56,906 | INFO | 📊 Cycle #10 | 17 symbols
+2026-10-16 18:19:00,568 | WARNING | ⚠️ stable-baselines3/gymnasium жоқ — RL өшірулі
+2026-10-16 18:19:59,711 | INFO | ✅ LLM: xAI Grok (grok-3)
+2026-10-16 18:20:03,407 | INFO | ============================================================
+2026-10-16 18:20:03,408 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-16 18:20:03,409 | INFO | ============================================================
+2026-10-16 18:20:04,135 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-16 18:20:04,136 | INFO | 
+📂 Күйді жүктеу...
+2026-10-16 18:20:04,190 | INFO | Жады: 17 фаза
+2026-10-16 18:20:04,192 | INFO | 🚫 Filter өшірілген: 0
+2026-10-16 18:20:04,193 | INFO | 📈 Metrics: 0W / 0L
+2026-10-16 18:20:04,823 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-16 18:20:04,844 | INFO | ✅ Data DB OK
+2026-10-16 18:20:04,847 | INFO | 
+📂 Categories:
+2026-10-16 18:20:05,330 | INFO |   📂 crypto: 0/8
+2026-10-16 18:20:05,374 | INFO |   📂 metals: 2/2
+2026-10-16 18:20:05,377 | INFO |   📂 energies: 0/3
+2026-10-16 18:20:05,379 | INFO |   📂 indices: 4/6
+2026-10-16 18:20:05,381 | INFO |   📂 forex: 15/15
+2026-10-16 18:20:05,384 | INFO | ✅ Categories: 21 symbols
+2026-10-16 18:20:05,433 | INFO | 
+🎓 Learning...
+2026-10-16 18:20:05,511 | INFO | 📂 Learning: 15 паттерн (1.4с)
+2026-10-16 18:20:05,513 | INFO | ✅ Learning тексерілген (1.4с)
+2026-10-16 18:20:05,514 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-16 18:20:05,523 | INFO | ✅ Data collector
+2026-10-16 18:20:05,527 | INFO | ✅ ML trainer (XGBoost)
+2026-10-16 18:20:05,528 | INFO | ✅ Data DB OK
+2026-10-16 18:20:05,531 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-16 18:20:05,535 | INFO | ✅ TG worker
+2026-10-16 18:20:05,540 | INFO | ✅ CB worker | Security: [528379915]
+2026-10-16 18:20:05,546 | INFO | ✅ Heartbeat + Trailing
+2026-10-16 18:20:05,548 | INFO | ✅ LLM Brain іске қосылды
+2026-10-16 18:20:05,550 | INFO | ✅ Strategy Programmer іске қосылды
+2026-10-16 18:20:05,551 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-16 18:20:05,553 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-16 18:20:05,557 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-16 18:20:05,557 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-16 18:20:05,564 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-16 18:20:05,566 | INFO | ⏸ RL өшірулі (SB3 жоқ)
+2026-10-16 18:20:05,568 | INFO | ✅ Ablation test іске қосылды
+2026-10-16 18:20:05,568 | INFO | 
+✅ Mode: MANUAL
+2026-10-16 18:20:05,570 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-16 18:20:05,573 | INFO | ✅ Security: [528379915]
+2026-10-16 18:20:05,573 | INFO | ✅ LLM: ON
+2026-10-16 18:20:05,575 | INFO | ✅ Voice: ON
+2026-10-16 18:20:05,576 | INFO | ✅ TV Bridge: ON
+2026-10-16 18:20:05,576 | INFO | ✅ RL Agent: OFF
+2026-10-16 18:20:05,577 | INFO | ✅ Hedge: ON
+2026-10-16 18:20:05,578 | INFO | ✅ Filters disabled: жоқ
+2026-10-16 18:20:05,579 | INFO | ============================================================
+2026-10-16 18:20:05,580 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-16 18:20:50,182 | INFO | TG: 🏎️ *APEX v3 — 6 ҚАТАРЛЫ EDITION*
+
+⚡ *1. Wyckoff En
+2026-10-16 18:23:07,826 | INFO | PREPARE: USDCHF — 120% (BUY)
+2026-10-16 18:23:07,859 | ERROR | CB: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 18:24:58,102 | INFO | SEQ: GBPCHF — ut (SELL)
+2026-10-16 18:25:39,711 | ERROR | TG: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 18:25:39,750 | INFO | PREPARE: EURGBP — 120% (BUY)
+2026-10-16 18:26:16,068 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-16 18:30:05,554 | INFO | 🔁 Fractal Medium cycle (6с) — LLM талдау
+2026-10-16 18:45:21,061 | INFO | ✅ LLM: xAI Grok (grok-3)
+2026-10-16 18:45:24,982 | INFO | ============================================================
+2026-10-16 18:45:24,983 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-16 18:45:24,984 | INFO | ============================================================
+2026-10-16 18:45:25,769 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-16 18:45:25,770 | INFO | 
+📂 Күйді жүктеу...
+2026-10-16 18:45:25,798 | INFO | Жады: 17 фаза
+2026-10-16 18:45:25,799 | INFO | 🚫 Filter өшірілген: 0
+2026-10-16 18:45:25,800 | INFO | 📈 Metrics: 0W / 0L
+2026-10-16 18:45:25,934 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-16 18:45:25,952 | INFO | ✅ Data DB OK
+2026-10-16 18:45:25,954 | INFO | 
+📂 Categories:
+2026-10-16 18:45:26,451 | INFO |   📂 crypto: 0/8
+2026-10-16 18:45:26,451 | INFO |   📂 metals: 2/2
+2026-10-16 18:45:26,453 | INFO |   📂 energies: 0/3
+2026-10-16 18:45:26,455 | INFO |   📂 indices: 4/6
+2026-10-16 18:45:26,456 | INFO |   📂 forex: 15/15
+2026-10-16 18:45:26,457 | INFO | ✅ Categories: 21 symbols
+2026-10-16 18:45:26,489 | INFO | 
+🎓 Learning...
+2026-10-16 18:45:26,553 | INFO | 📂 Learning: 15 паттерн (1.8с)
+2026-10-16 18:45:26,563 | INFO | ✅ Learning тексерілген (1.8с)
+2026-10-16 18:45:26,565 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-16 18:45:26,909 | INFO | ✅ Data collector
+2026-10-16 18:45:26,912 | INFO | ✅ Data DB OK
+2026-10-16 18:45:26,913 | INFO | ✅ ML trainer (XGBoost)
+2026-10-16 18:45:26,913 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-16 18:45:26,918 | INFO | ✅ TG worker
+2026-10-16 18:45:27,190 | INFO | ✅ CB+Chat worker | Security: [528379915]
+2026-10-16 18:45:27,215 | INFO | ✅ CB worker + LLM chat | Security: [528379915]
+2026-10-16 18:45:27,233 | INFO | ✅ Heartbeat + Trailing
+2026-10-16 18:45:27,239 | INFO | ✅ LLM Brain іске қосылды
+2026-10-16 18:45:27,242 | INFO | ✅ Strategy Programmer іске қосылды
+2026-10-16 18:45:27,245 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-16 18:45:27,248 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-16 18:45:27,251 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-16 18:45:27,251 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-16 18:45:27,259 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-16 18:45:27,262 | INFO | ✅ RL agent іске қосылды
+2026-10-16 18:45:27,265 | INFO | ✅ Ablation test іске қосылды
+2026-10-16 18:45:27,265 | INFO | 
+✅ Mode: MANUAL
+2026-10-16 18:45:27,267 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-16 18:45:27,269 | INFO | ✅ Security: [528379915]
+2026-10-16 18:45:27,270 | INFO | ✅ LLM: ON
+2026-10-16 18:45:27,271 | INFO | ✅ Voice: ON
+2026-10-16 18:45:27,274 | INFO | ✅ TV Bridge: ON
+2026-10-16 18:45:27,275 | INFO | ✅ RL Agent: ON
+2026-10-16 18:45:27,277 | INFO | ✅ Hedge: ON
+2026-10-16 18:45:27,278 | INFO | ✅ Filters disabled: жоқ
+2026-10-16 18:45:27,279 | INFO | ============================================================
+2026-10-16 18:45:27,280 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-16 18:47:24,100 | ERROR | TG: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read ti
+2026-10-16 18:47:24,107 | INFO | SEQ: GBPUSD — utad (SELL)
+2026-10-16 18:47:24,109 | ERROR | CB: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=35)
+2026-10-16 18:47:24,118 | INFO | PREPARE: AUDJPY — 120% (BUY)
+2026-10-16 18:47:24,142 | INFO | PREPARE: EURUSD — 120% (BUY)
+2026-10-16 18:54:37,693 | INFO | ✅ LLM: xAI Grok (grok-3)
+2026-10-16 18:54:39,886 | INFO | ============================================================
+2026-10-16 18:54:39,888 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-16 18:54:39,889 | INFO | ============================================================
+2026-10-16 18:54:40,618 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-16 18:54:40,618 | INFO | 
+📂 Күйді жүктеу...
+2026-10-16 18:54:40,619 | INFO | Жады: 0 фаза
+2026-10-16 18:54:40,620 | INFO | 🚫 Filter өшірілген: 0
+2026-10-16 18:54:40,621 | INFO | 📈 Metrics: 0W / 0L
+2026-10-16 18:54:40,742 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-16 18:54:40,777 | INFO | ✅ Data DB OK
+2026-10-16 18:54:40,844 | INFO | 
+📂 Categories:
+2026-10-16 18:54:41,086 | INFO |   📂 crypto: 0/8
+2026-10-16 18:54:41,087 | INFO |   📂 metals: 2/2
+2026-10-16 18:54:41,089 | INFO |   📂 energies: 0/3
+2026-10-16 18:54:41,091 | INFO |   📂 indices: 4/6
+2026-10-16 18:54:41,093 | INFO |   📂 forex: 15/15
+2026-10-16 18:54:41,093 | INFO | ✅ Categories: 21 symbols
+2026-10-16 18:54:41,115 | INFO | 
+🎓 Learning...
+2026-10-16 18:54:41,152 | INFO | 📂 Learning: 15 паттерн (2.0с)
+2026-10-16 18:54:41,154 | INFO | ✅ Learning тексерілген (2.0с)
+2026-10-16 18:54:41,155 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-16 18:54:41,159 | INFO | ✅ Data collector
+2026-10-16 18:54:41,160 | INFO | ✅ ML trainer (XGBoost)
+2026-10-16 18:54:41,161 | INFO | ✅ Data DB OK
+2026-10-16 18:54:41,162 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-16 18:54:41,162 | INFO | ✅ TG worker
+2026-10-16 18:54:41,165 | INFO | ✅ CB+Chat worker | Security: [528379915]
+2026-10-16 18:54:41,166 | INFO | ✅ CB worker + LLM chat | Security: [528379915]
+2026-10-16 18:54:41,173 | INFO | ✅ Heartbeat + Trailing
+2026-10-16 18:54:41,175 | INFO | ✅ LLM Brain іске қосылды
+2026-10-16 18:54:41,177 | INFO | ✅ Strategy Programmer іске қосылды
+2026-10-16 18:54:41,178 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-16 18:54:41,179 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-16 18:54:41,180 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-16 18:54:41,181 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-16 18:54:41,185 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-16 18:54:41,188 | INFO | ✅ RL agent іске қосылды
+2026-10-16 18:54:41,190 | INFO | ✅ Ablation test іске қосылды
+2026-10-16 18:54:41,190 | INFO | 
+✅ Mode: MANUAL
+2026-10-16 18:54:41,192 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-16 18:54:41,194 | INFO | ✅ Security: [528379915]
+2026-10-16 18:54:41,194 | INFO | ✅ LLM: ON
+2026-10-16 18:54:41,195 | INFO | ✅ Voice: ON
+2026-10-16 18:54:41,196 | INFO | ✅ TV Bridge: ON
+2026-10-16 18:54:41,197 | INFO | ✅ RL Agent: ON
+2026-10-16 18:54:41,197 | INFO | ✅ Hedge: ON
+2026-10-16 18:54:41,201 | INFO | ✅ Filters disabled: жоқ
+2026-10-16 18:54:41,201 | INFO | ============================================================
+2026-10-16 18:54:41,204 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-16 18:56:17,475 | INFO | PREPARE: AUDJPY — 120% (BUY)
+2026-10-16 18:56:17,518 | INFO | SEQ: GBPUSD — utad (SELL)
+2026-10-16 18:56:17,580 | ERROR | TG: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 18:56:50,016 | ERROR | CB: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-16 18:56:54,327 | INFO | 🟡 WAIT: AUDJPY — 120% (BUY)
+2026-10-16 18:57:09,264 | INFO | PREPARE: XAUUSD — 180% (SELL)
+2026-10-16 18:57:09,265 | INFO | PREPARE: EURUSD — 120% (BUY)
+2026-10-16 18:58:28,941 | INFO | SEQ: AUDCAD — shakeout (BUY)
+2026-10-16 18:59:23,302 | INFO | 🟡 WAIT: EURUSD — 120% (BUY)
+2026-10-16 18:59:23,310 | INFO | 🟡 WAIT: XAUUSD — 180% (SELL)
+2026-10-16 18:59:53,946 | INFO | 💬 User 528379915: аи
+2026-10-16 18:59:53,961 | INFO | 💬 User 528379915: бот
+2026-10-16 18:59:54,246 | INFO | TG: 📋 *AUDJPY — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 18:59:56,770 | INFO | TG: 📋 *GBPUSD — UTAD*
+🔗 ST күтеміз
+2026-10-16 19:00:00,084 | INFO | TG: 🟡 *WAIT — AUDJPY*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:00:03,153 | INFO | HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-10-16 19:00:04,691 | INFO | HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-10-16 19:00:04,857 | INFO | HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-10-16 19:00:04,862 | ERROR | LLM ask (xai): Error code: 403 - {'code': 'permission-denied', 'error': "Your newly created team doesn't have any credits or licenses yet. You can purchase those on 
+2026-10-16 19:00:06,099 | INFO | TG: 📋 *XAUUSD — PREPARE (180%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 19:00:06,457 | INFO | HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-10-16 19:00:06,462 | ERROR | LLM ask (xai): Error code: 403 - {'code': 'permission-denied', 'error': "Your newly created team doesn't have any credits or licenses yet. You can purchase those on 
+2026-10-16 19:00:09,563 | INFO | TG: 📋 *EURUSD — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 19:00:10,595 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:00:14,637 | INFO | TG: 🏎️ *APEX v3 — 6 ҚАТАРЛЫ EDITION*
+
+⚡ *1. Wyckoff En
+2026-10-16 19:00:15,186 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:00:18,599 | INFO | TG: 📋 *AUDCAD — SHAKEOUT*
+🌍 4H: accumulation
+📊 Көлем: 
+2026-10-16 19:00:20,419 | INFO | TG: 🟡 *WAIT — EURUSD*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:00:20,439 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:00:22,184 | INFO | TG: 🟠 *WAIT — XAUUSD*
+
+📊 Level: 180%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:00:26,626 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-16 19:00:28,517 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-16 19:00:29,802 | INFO | TG: 🧠 *APEX:*
+
+⚠️ LLM жауап бермеді (кілт/желіні тексе
+2026-10-16 19:00:31,052 | INFO | TG: 🧠 *APEX:*
+
+⚠️ LLM жауап бермеді (кілт/желіні тексе
+2026-10-16 19:01:10,025 | INFO | 💬 User 528379915: әрі қарай
+2026-10-16 19:01:10,953 | INFO | HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-10-16 19:01:11,423 | INFO | HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-10-16 19:01:11,441 | ERROR | LLM ask (xai): Error code: 403 - {'code': 'permission-denied', 'error': "Your newly created team doesn't have any credits or licenses yet. You can purchase those on 
+2026-10-16 19:01:11,984 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-16 19:01:13,662 | INFO | TG: 🧠 *APEX:*
+
+⚠️ LLM жауап бермеді (кілт/желіні тексе
+2026-10-16 19:01:13,726 | INFO | 📊 FRED: ['DXY', 'CPI', 'FEDFUNDS', 'DGS10']
+2026-10-16 19:01:15,061 | WARNING | San status: 400
+2026-10-16 19:01:15,070 | INFO | 
+📥 Data collection...
+2026-10-16 19:01:17,972 | INFO | 😱 FG: 63
+2026-10-16 19:01:46,674 | ERROR | CB: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=35)
+2026-10-16 19:01:54,043 | ERROR | CB: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существую
+2026-10-16 19:01:58,411 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-16 19:02:03,856 | WARNING | San status: 400
+2026-10-16 19:02:28,107 | INFO | 💬 User 528379915: бәрі дұрыспа
+2026-10-16 19:02:28,834 | INFO | HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-10-16 19:02:29,691 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-16 19:02:54,872 | INFO | HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-10-16 19:02:57,935 | ERROR | LLM ask (xai): Error code: 403 - {'code': 'permission-denied', 'error': "Your newly created team doesn't have any credits or licenses yet. You can purchase those on 
+2026-10-16 19:02:59,359 | INFO | TG: 🧠 *APEX:*
+
+⚠️ LLM жауап бермеді (кілт/желіні тексе
+2026-10-16 19:04:41,180 | INFO | 🔁 Fractal Medium cycle (6с) — LLM талдау
+2026-10-16 19:04:41,183 | INFO | 🔁 Fractal Large cycle (24с) — ML retrain
+2026-10-16 19:04:41,185 | INFO | 🔁 Fractal Mega cycle (7к) — толық backtest
+2026-10-16 19:04:41,188 | INFO | 🔄 Incremental (2.1с)...
+2026-10-16 19:04:41,189 | WARNING | ⚠️ Деректер аз
+2026-10-16 19:04:41,281 | INFO | ⏳ LLM: сигнал аз (0/50)
+2026-10-16 19:06:32,480 | INFO | ML: samples < 200, skip train
+2026-10-16 19:10:05,650 | INFO | PREPARE: AUDCHF — 180% (SELL)
+2026-10-16 19:10:05,656 | INFO | PREPARE: GBPUSD — 180% (BUY)
+2026-10-16 19:10:05,661 | INFO | PREPARE: XAGUSD — 150% (BUY)
+2026-10-16 19:10:05,667 | INFO | PREPARE: USDCHF — 180% (SELL)
+2026-10-16 19:10:05,675 | INFO | PREPARE: USDJPY — 120% (SELL)
+2026-10-16 19:11:10,903 | INFO | 🟡 WAIT: GBPUSD — 180% (BUY)
+2026-10-16 19:11:11,011 | INFO | PREPARE: NZDUSD — 120% (BUY)
+2026-10-16 19:11:11,012 | INFO | 🟡 WAIT: AUDCHF — 180% (SELL)
+2026-10-16 19:11:28,183 | INFO | 🟡 WAIT: XAGUSD — 150% (BUY)
+2026-10-16 19:11:28,192 | INFO | SEQ: AUDUSD — shakeout (BUY)
+2026-10-16 19:11:28,192 | INFO | 🟡 WAIT: NZDUSD — 120% (BUY)
+2026-10-16 19:11:28,193 | INFO | 🟡 WAIT: USDJPY — 120% (SELL)
+2026-10-16 19:11:28,203 | INFO | 🟡 WAIT: USDCHF — 180% (SELL)
+2026-10-16 19:11:28,726 | ERROR | CB: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot899790219
+2026-10-16 19:11:29,383 | INFO | PREPARE: GBPCHF — 120% (SELL)
+2026-10-16 19:15:46,995 | INFO | ✅ LLM: Groq primary (llama-3.3-70b-versatile)
+2026-10-16 19:15:50,882 | INFO | ============================================================
+2026-10-16 19:15:50,883 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-16 19:15:50,884 | INFO | ============================================================
+2026-10-16 19:15:53,737 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-16 19:15:53,739 | INFO | 
+📂 Күйді жүктеу...
+2026-10-16 19:15:53,741 | INFO | Жады: 17 фаза
+2026-10-16 19:15:53,744 | INFO | 🚫 Filter өшірілген: 0
+2026-10-16 19:15:53,745 | INFO | 📈 Metrics: 0W / 0L
+2026-10-16 19:15:53,886 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-16 19:15:53,915 | INFO | ✅ Data DB OK
+2026-10-16 19:15:53,930 | INFO | 
+📂 Categories:
+2026-10-16 19:15:54,344 | INFO |   📂 crypto: 0/8
+2026-10-16 19:15:54,345 | INFO |   📂 metals: 2/2
+2026-10-16 19:15:54,347 | INFO |   📂 energies: 0/3
+2026-10-16 19:15:54,348 | INFO |   📂 indices: 4/6
+2026-10-16 19:15:54,350 | INFO |   📂 forex: 15/15
+2026-10-16 19:15:54,352 | INFO | ✅ Categories: 21 symbols
+2026-10-16 19:15:54,395 | INFO | 
+🎓 Learning...
+2026-10-16 19:15:54,436 | INFO | 📂 Learning: 15 паттерн (2.3с)
+2026-10-16 19:15:54,437 | INFO | ✅ Learning тексерілген (2.3с)
+2026-10-16 19:15:54,439 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-16 19:15:54,443 | INFO | ✅ Data collector
+2026-10-16 19:15:54,446 | INFO | ✅ ML trainer (XGBoost)
+2026-10-16 19:15:54,446 | INFO | ✅ Data DB OK
+2026-10-16 19:15:54,447 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-16 19:15:54,448 | INFO | ✅ TG worker
+2026-10-16 19:15:54,452 | INFO | ✅ CB+Chat worker | Security: [528379915]
+2026-10-16 19:15:54,452 | INFO | ✅ CB worker + LLM chat | Security: [528379915]
+2026-10-16 19:15:54,460 | INFO | ✅ Heartbeat + Trailing
+2026-10-16 19:15:54,462 | INFO | ✅ LLM Brain іске қосылды
+2026-10-16 19:15:54,465 | INFO | ✅ Strategy Programmer іске қосылды
+2026-10-16 19:15:54,467 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-16 19:15:54,469 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-16 19:15:54,470 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-16 19:15:54,471 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-16 19:15:54,476 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-16 19:15:54,479 | INFO | ✅ RL agent іске қосылды
+2026-10-16 19:15:54,481 | INFO | ✅ Ablation test іске қосылды
+2026-10-16 19:15:54,482 | INFO | 
+✅ Mode: MANUAL
+2026-10-16 19:15:54,483 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-16 19:15:54,486 | INFO | ✅ Security: [528379915]
+2026-10-16 19:15:54,487 | INFO | ✅ LLM: ON
+2026-10-16 19:15:54,488 | INFO | ✅ Voice: ON
+2026-10-16 19:15:54,491 | INFO | ✅ TV Bridge: ON
+2026-10-16 19:15:54,492 | INFO | ✅ RL Agent: ON
+2026-10-16 19:15:54,494 | INFO | ✅ Hedge: ON
+2026-10-16 19:15:54,495 | INFO | ✅ Filters disabled: жоқ
+2026-10-16 19:15:54,496 | INFO | ============================================================
+2026-10-16 19:15:54,496 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-16 19:16:06,383 | INFO | SEQ: USDCHF — shakeout (BUY)
+2026-10-16 19:16:06,421 | INFO | SEQ: XAUUSD — utad (SELL)
+2026-10-16 19:16:06,430 | INFO | SEQ: AUDCHF — shakeout (BUY)
+2026-10-16 19:17:18,547 | INFO | SEQ: AUDJPY — shakeout (BUY)
+2026-10-16 19:17:18,576 | INFO | SEQ: USDJPY — shakeout (BUY)
+2026-10-16 19:17:18,578 | ERROR | CB: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot899790219
+2026-10-16 19:18:08,567 | ERROR | TG: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without
+2026-10-16 19:18:32,031 | INFO | PREPARE: AUDUSD — 120% (BUY)
+2026-10-16 19:19:32,219 | INFO | PREPARE: AUDCAD — 120% (SELL)
+2026-10-16 19:19:57,658 | INFO | 🟡 WAIT: AUDUSD — 120% (BUY)
+2026-10-16 19:20:33,644 | INFO | PREPARE: GBPJPY — 120% (SELL)
+2026-10-16 19:20:33,663 | INFO | PREPARE: AUDNZD — 120% (SELL)
+2026-10-16 19:20:33,738 | INFO | 🟡 WAIT: GBPCHF — 120% (SELL)
+2026-10-16 19:20:33,880 | INFO | SEQ: EURJPY — shakeout (BUY)
+2026-10-16 19:20:33,890 | INFO | PREPARE: EURGBP — 120% (SELL)
+2026-10-16 19:20:33,908 | INFO | SEQ: USDCAD — shakeout (BUY)
+2026-10-16 19:20:33,908 | INFO | 🟡 WAIT: AUDCAD — 120% (SELL)
+2026-10-16 19:20:33,909 | INFO | 🟡 WAIT: GBPJPY — 120% (SELL)
+2026-10-16 19:20:33,909 | INFO | 🟡 WAIT: AUDNZD — 120% (SELL)
+2026-10-16 19:20:33,944 | INFO | 🟡 WAIT: EURGBP — 120% (SELL)
+2026-10-16 19:20:34,967 | ERROR | CB: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot899790219
+2026-10-16 19:20:34,974 | ERROR | TG: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 19:20:38,881 | INFO | TG: 📋 *XAUUSD — UTAD*
+🔗 ST күтеміз
+2026-10-16 19:20:45,911 | INFO | TG: 📋 *AUDCHF — SHAKEOUT*
+🌍 4H: accumulation
+📊 Көлем: 
+2026-10-16 19:20:51,191 | INFO | TG: 📋 *AUDJPY — SHAKEOUT*
+🌍 4H: markdown
+📊 Көлем: 1.95
+2026-10-16 19:20:53,401 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:20:58,720 | INFO | TG: 📋 *USDJPY — SHAKEOUT*
+🌍 4H: markup
+📊 Көлем: 2.17×
+
+2026-10-16 19:20:58,723 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:21:06,367 | INFO | TG: 📋 *AUDUSD — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 19:21:08,504 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:21:09,873 | INFO | TG: 🏎️ *APEX v3 — 6 ҚАТАРЛЫ EDITION*
+
+⚡ *1. Wyckoff En
+2026-10-16 19:21:15,112 | ERROR | Send voice: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+2026-10-16 19:21:15,501 | ERROR | Send voice: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+2026-10-16 19:21:15,626 | ERROR | Send voice: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+2026-10-16 19:21:48,538 | INFO | TG: 📋 *AUDCAD — PREPARE (120%)*
+🌍 4H: accumulation
+🐋 D
+2026-10-16 19:23:58,251 | ERROR | CB: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot899790219
+2026-10-16 19:23:58,614 | INFO | PREPARE: EURJPY — 120% (SELL)
+2026-10-16 19:23:58,643 | INFO | PREPARE: USDCAD — 180% (SELL)
+2026-10-16 19:23:58,663 | INFO | 🟡 WAIT: EURJPY — 120% (SELL)
+2026-10-16 19:23:58,665 | INFO | 🟡 WAIT: USDCAD — 180% (SELL)
+2026-10-16 19:23:59,851 | INFO | TG: 🟡 *WAIT — AUDUSD*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:24:03,807 | INFO | TG: 📋 *GBPJPY — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 19:24:10,570 | INFO | TG: 📋 *AUDNZD — PREPARE (120%)*
+🌍 4H: markup
+🐋 Delta: 
+2026-10-16 19:24:17,695 | INFO | TG: 🟠 *WAIT — GBPCHF*
+
+📊 Level: 120%
+🌍 4H: accumulatio
+2026-10-16 19:24:18,992 | INFO | 📊 FRED: ['DXY', 'CPI', 'FEDFUNDS', 'DGS10']
+2026-10-16 19:24:22,469 | INFO | TG: 📋 *EURJPY — SHAKEOUT*
+🌍 4H: markdown
+📊 Көлем: 1.79
+2026-10-16 19:24:27,820 | INFO | TG: 📋 *EURGBP — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 19:24:28,448 | WARNING | San status: 400
+2026-10-16 19:24:28,451 | INFO | 
+📥 Data collection...
+2026-10-16 19:24:33,553 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:24:35,866 | INFO | TG: 📋 *USDCAD — SHAKEOUT*
+🌍 4H: markup
+📊 Көлем: 1.88×
+
+2026-10-16 19:24:40,798 | ERROR | Send voice: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+2026-10-16 19:24:41,381 | INFO | TG: 🟠 *WAIT — AUDCAD*
+
+📊 Level: 120%
+🌍 4H: accumulatio
+2026-10-16 19:24:41,653 | INFO | 😱 FG: 63
+2026-10-16 19:24:49,136 | INFO | TG: 🟠 *WAIT — GBPJPY*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:24:53,897 | INFO | TG: 🟠 *WAIT — AUDNZD*
+
+📊 Level: 120%
+🌍 4H: markup
+🧭 Di
+2026-10-16 19:24:58,179 | INFO | TG: 🟠 *WAIT — EURGBP*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:25:01,065 | INFO | TG: 📋 *USDCHF — SHAKEOUT*
+🌍 4H: markup
+📊 Көлем: 1.89×
+
+2026-10-16 19:25:02,448 | INFO | 📊 Cycle #10 | 17 symbols
+2026-10-16 19:25:04,466 | INFO | TG: 📋 *EURJPY — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 19:25:10,041 | INFO | TG: 🟠 *WAIT — EURJPY*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:25:12,297 | INFO | TG: 🟠 *WAIT — USDCAD*
+
+📊 Level: 180%
+🌍 4H: markup
+🧭 Di
+2026-10-16 19:25:32,318 | INFO | 📊 Cycle #20 | 17 symbols
+2026-10-16 19:25:43,257 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-16 19:25:46,583 | WARNING | San status: 400
+2026-10-16 19:25:54,470 | INFO | 🔁 Fractal Medium cycle (6с) — LLM талдау
+2026-10-16 19:25:54,478 | INFO | 🔁 Fractal Large cycle (24с) — ML retrain
+2026-10-16 19:25:54,483 | INFO | 🔁 Fractal Mega cycle (7к) — толық backtest
+2026-10-16 19:25:54,489 | INFO | 🔄 Incremental (2.5с)...
+2026-10-16 19:25:54,492 | WARNING | ⚠️ Деректер аз
+2026-10-16 19:25:55,611 | INFO | ⏳ LLM: сигнал аз (0/50)
+2026-10-16 19:26:02,535 | INFO | 📊 Cycle #30 | 17 symbols
+2026-10-16 19:26:17,873 | INFO | 🟡 WAIT: AUDJPY — 180% (SELL)
+2026-10-16 19:26:19,590 | INFO | TG: 🟠 *WAIT — AUDJPY*
+
+📊 Level: 180%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:26:32,950 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:26:45,272 | INFO | 📊 Cycle #40 | 17 symbols
+2026-10-16 19:26:50,905 | INFO | ML: samples < 200, skip train
+2026-10-16 19:27:15,288 | INFO | 📊 Cycle #50 | 17 symbols
+2026-10-16 19:27:27,544 | INFO | 💬 User 528379915: салем
+2026-10-16 19:27:29,347 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-16 19:27:44,695 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-16 19:27:45,379 | INFO | 📊 Cycle #60 | 17 symbols
+2026-10-16 19:27:45,503 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-16 19:27:45,807 | ERROR | LLM ask (groq): Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_reques
+2026-10-16 19:27:47,402 | INFO | TG: 🧠 *APEX:*
+
+⚠️ LLM жауап бермеді (кілт/желіні тексе
+2026-10-16 19:28:03,650 | INFO | 🟡 WAIT: XAUUSD — 120% (BUY)
+2026-10-16 19:28:06,223 | INFO | TG: 🟡 *WAIT — XAUUSD*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:28:13,696 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:28:22,964 | INFO | 📊 Cycle #70 | 17 symbols
+2026-10-16 19:28:53,083 | INFO | 📊 Cycle #80 | 17 symbols
+2026-10-16 19:28:57,258 | INFO | 🟡 WAIT: EURUSD — 180% (BUY)
+2026-10-16 19:29:01,516 | INFO | TG: 🟡 *WAIT — EURUSD*
+
+📊 Level: 180%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:29:13,266 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:29:37,615 | INFO | 📊 Cycle #90 | 17 symbols
+2026-10-16 19:41:08,601 | INFO | ✅ LLM: xAI Grok (grok-3)
+2026-10-16 19:41:11,456 | INFO | ============================================================
+2026-10-16 19:41:11,457 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-16 19:41:11,458 | INFO | ============================================================
+2026-10-16 19:41:12,003 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-16 19:41:12,004 | INFO | 
+📂 Күйді жүктеу...
+2026-10-16 19:41:12,013 | INFO | Жады: 17 фаза
+2026-10-16 19:41:12,015 | INFO | 🚫 Filter өшірілген: 0
+2026-10-16 19:41:12,015 | INFO | 📈 Metrics: 0W / 0L
+2026-10-16 19:41:12,098 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-16 19:41:12,127 | INFO | ✅ Data DB OK
+2026-10-16 19:41:12,129 | INFO | 
+📂 Categories:
+2026-10-16 19:41:12,380 | INFO |   📂 crypto: 0/8
+2026-10-16 19:41:12,381 | INFO |   📂 metals: 2/2
+2026-10-16 19:41:12,383 | INFO |   📂 energies: 0/3
+2026-10-16 19:41:12,385 | INFO |   📂 indices: 4/6
+2026-10-16 19:41:12,386 | INFO |   📂 forex: 15/15
+2026-10-16 19:41:12,387 | INFO | ✅ Categories: 21 symbols
+2026-10-16 19:41:12,406 | INFO | 
+🎓 Learning...
+2026-10-16 19:41:12,427 | INFO | 📂 Learning: 15 паттерн (2.7с)
+2026-10-16 19:41:12,428 | INFO | ✅ Learning тексерілген (2.7с)
+2026-10-16 19:41:12,430 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-16 19:41:12,433 | INFO | ✅ Data collector
+2026-10-16 19:41:12,435 | INFO | ✅ ML trainer (XGBoost)
+2026-10-16 19:41:12,436 | INFO | ✅ Data DB OK
+2026-10-16 19:41:12,437 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-16 19:41:12,437 | INFO | ✅ TG worker
+2026-10-16 19:41:12,452 | INFO | ✅ CB+Chat worker | Security: [528379915]
+2026-10-16 19:41:12,453 | INFO | ✅ CB worker + LLM chat | Security: [528379915]
+2026-10-16 19:41:12,461 | INFO | ✅ Heartbeat + Trailing
+2026-10-16 19:41:12,463 | INFO | ✅ LLM Brain іске қосылды
+2026-10-16 19:41:12,465 | INFO | ✅ Strategy Programmer іске қосылды
+2026-10-16 19:41:12,467 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-16 19:41:12,469 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-16 19:41:12,471 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-16 19:41:12,471 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-16 19:41:12,477 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-16 19:41:12,479 | INFO | ✅ RL agent іске қосылды
+2026-10-16 19:41:12,481 | INFO | ✅ Ablation test іске қосылды
+2026-10-16 19:41:12,482 | INFO | 
+✅ Mode: MANUAL
+2026-10-16 19:41:12,484 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-16 19:41:12,485 | INFO | ✅ Security: [528379915]
+2026-10-16 19:41:12,486 | INFO | ✅ LLM: ON
+2026-10-16 19:41:12,487 | INFO | ✅ Voice: ON
+2026-10-16 19:41:12,489 | INFO | ✅ TV Bridge: ON
+2026-10-16 19:41:12,492 | INFO | ✅ RL Agent: ON
+2026-10-16 19:41:12,493 | INFO | ✅ Hedge: ON
+2026-10-16 19:41:12,494 | INFO | ✅ Filters disabled: жоқ
+2026-10-16 19:41:12,495 | INFO | ============================================================
+2026-10-16 19:41:12,496 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-16 19:43:03,094 | ERROR | TG: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded wit
+2026-10-16 19:43:03,134 | ERROR | CB: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot899790219
+2026-10-16 19:54:30,141 | INFO | ✅ LLM: xAI Grok (grok-3)
+2026-10-16 19:54:32,489 | INFO | ============================================================
+2026-10-16 19:54:32,490 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-16 19:54:32,492 | INFO | ============================================================
+2026-10-16 19:54:33,159 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-16 19:54:33,160 | INFO | 
+📂 Күйді жүктеу...
+2026-10-16 19:54:33,230 | INFO | Жады: 0 фаза
+2026-10-16 19:54:33,232 | INFO | 🚫 Filter өшірілген: 0
+2026-10-16 19:54:33,233 | INFO | 📈 Metrics: 0W / 0L
+2026-10-16 19:54:33,491 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-16 19:54:33,502 | INFO | ✅ Data DB OK
+2026-10-16 19:54:33,506 | INFO | 
+📂 Categories:
+2026-10-16 19:54:33,798 | INFO |   📂 crypto: 0/8
+2026-10-16 19:54:33,799 | INFO |   📂 metals: 2/2
+2026-10-16 19:54:33,801 | INFO |   📂 energies: 0/3
+2026-10-16 19:54:33,804 | INFO |   📂 indices: 4/6
+2026-10-16 19:54:33,805 | INFO |   📂 forex: 15/15
+2026-10-16 19:54:33,806 | INFO | ✅ Categories: 21 symbols
+2026-10-16 19:54:33,826 | INFO | 
+🎓 Learning...
+2026-10-16 19:54:33,944 | INFO | 📂 Learning: 15 паттерн (3.0с)
+2026-10-16 19:54:33,945 | INFO | ✅ Learning тексерілген (3.0с)
+2026-10-16 19:54:33,947 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-16 19:54:33,950 | INFO | ✅ Data collector
+2026-10-16 19:54:33,952 | INFO | ✅ ML trainer (XGBoost)
+2026-10-16 19:54:33,952 | INFO | ✅ Data DB OK
+2026-10-16 19:54:33,954 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-16 19:54:33,954 | INFO | ✅ TG worker
+2026-10-16 19:54:33,958 | INFO | ✅ CB+Chat worker | Security: [528379915]
+2026-10-16 19:54:33,959 | INFO | ✅ CB worker + LLM chat | Security: [528379915]
+2026-10-16 19:54:33,965 | INFO | ✅ Heartbeat + Trailing
+2026-10-16 19:54:33,967 | INFO | ✅ LLM Brain іске қосылды
+2026-10-16 19:54:33,969 | INFO | ✅ Strategy Programmer іске қосылды
+2026-10-16 19:54:33,985 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-16 19:54:33,990 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-16 19:54:33,993 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-16 19:54:33,993 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-16 19:54:34,020 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-16 19:54:34,026 | INFO | ✅ RL agent іске қосылды
+2026-10-16 19:54:34,032 | INFO | ✅ Ablation test іске қосылды
+2026-10-16 19:54:34,045 | INFO | 
+✅ Mode: MANUAL
+2026-10-16 19:54:34,076 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-16 19:54:34,092 | INFO | ✅ Security: [528379915]
+2026-10-16 19:54:34,094 | INFO | ✅ LLM: ON
+2026-10-16 19:54:34,095 | INFO | ✅ Voice: ON
+2026-10-16 19:54:34,096 | INFO | ✅ TV Bridge: ON
+2026-10-16 19:54:34,108 | INFO | ✅ RL Agent: ON
+2026-10-16 19:54:34,120 | INFO | ✅ Hedge: ON
+2026-10-16 19:54:34,127 | INFO | ✅ Filters disabled: жоқ
+2026-10-16 19:54:34,132 | INFO | ============================================================
+2026-10-16 19:54:34,141 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-16 19:55:29,044 | INFO | TG: 🏎️ *APEX v3 — 6 ҚАТАРЛЫ EDITION*
+
+⚡ *1. Wyckoff En
+2026-10-16 19:55:38,262 | INFO | PREPARE: XAGUSD — 120% (BUY)
+2026-10-16 19:55:38,281 | INFO | SEQ: AUDCHF — spring (BUY)
+2026-10-16 19:55:52,473 | INFO | PREPARE: USDJPY — 120% (SELL)
+2026-10-16 19:55:52,473 | INFO | SEQ: GBPUSD — utad (SELL)
+2026-10-16 19:55:52,483 | INFO | PREPARE: NZDUSD — 120% (BUY)
+2026-10-16 19:55:52,651 | INFO | SEQ: USDCHF — spring (BUY)
+2026-10-16 19:55:52,684 | INFO | PREPARE: AUDJPY — 120% (SELL)
+2026-10-16 19:55:52,695 | INFO | 🟡 WAIT: XAGUSD — 120% (BUY)
+2026-10-16 19:55:52,729 | INFO | 😱 FG: 63
+2026-10-16 19:55:52,731 | INFO | 🟡 WAIT: USDJPY — 120% (SELL)
+2026-10-16 19:55:57,747 | INFO | 🟡 WAIT: NZDUSD — 120% (BUY)
+2026-10-16 19:56:14,129 | INFO | 🟡 WAIT: AUDJPY — 120% (SELL)
+2026-10-16 19:56:14,129 | INFO | PREPARE: EURUSD — 120% (BUY)
+2026-10-16 19:56:47,891 | INFO | PREPARE: AUDCAD — 120% (SELL)
+2026-10-16 19:56:56,730 | INFO | TG: 📋 *XAGUSD — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 19:56:57,006 | INFO | SEQ: USDCAD — spring (BUY)
+2026-10-16 19:56:57,006 | INFO | SEQ: EURJPY — spring (BUY)
+2026-10-16 19:56:57,021 | INFO | 🟡 WAIT: EURUSD — 120% (BUY)
+2026-10-16 19:56:57,024 | INFO | 🟡 WAIT: AUDCAD — 120% (SELL)
+2026-10-16 19:57:02,298 | INFO | PREPARE: GBPJPY — 120% (SELL)
+2026-10-16 19:57:02,325 | INFO | 🟡 WAIT: GBPJPY — 120% (SELL)
+2026-10-16 19:57:12,990 | INFO | PREPARE: AUDNZD — 120% (SELL)
+2026-10-16 19:57:13,011 | INFO | 🟡 WAIT: AUDNZD — 120% (SELL)
+2026-10-16 19:57:13,179 | INFO | 💬 User 528379915: смсті 120% емес 180% ары көрсет
+2026-10-16 19:57:13,416 | INFO | TG: 📋 *AUDCHF — SPRING*
+🌍 4H: accumulation
+📊 Көлем: 1.
+2026-10-16 19:57:15,277 | INFO | TG: 📋 *USDJPY — PREPARE (120%)*
+🌍 4H: markup
+🐋 Delta: 
+2026-10-16 19:57:16,999 | INFO | TG: 📋 *GBPUSD — UTAD*
+🔗 ST күтеміз
+2026-10-16 19:57:19,429 | INFO | HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-10-16 19:57:19,914 | INFO | HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-10-16 19:57:19,916 | ERROR | LLM ask (xai): Error code: 403 - {'code': 'permission-denied', 'error': "Your newly created team doesn't have any credits or licenses yet. You can purchase those on 
+2026-10-16 19:57:23,676 | INFO | TG: 📋 *NZDUSD — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 19:57:29,169 | INFO | TG: 📋 *USDCHF — SPRING*
+🌍 4H: markup
+📊 Көлем: 1.24×
+🔗 
+2026-10-16 19:57:30,344 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:57:46,788 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:57:46,795 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:57:46,801 | INFO | SEQ: EURGBP — spring (BUY)
+2026-10-16 19:57:46,796 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:57:46,798 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:57:46,800 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:57:47,066 | INFO | TG: 📋 *AUDJPY — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 19:57:48,816 | INFO | 🔊 Voice жіберілді
+2026-10-16 19:57:48,984 | INFO | TG: 🟡 *WAIT — XAGUSD*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:57:50,780 | INFO | TG: 🟠 *WAIT — USDJPY*
+
+📊 Level: 120%
+🌍 4H: markup
+🧭 Di
+2026-10-16 19:57:52,434 | ERROR | Send voice: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+2026-10-16 19:57:52,605 | INFO | TG: 🟡 *WAIT — NZDUSD*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:57:57,370 | INFO | TG: 🟠 *WAIT — AUDJPY*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:57:58,658 | INFO | TG: 📋 *EURUSD — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 19:58:00,887 | INFO | 💬 User 528379915: prepare 180%<  болсын
+2026-10-16 19:58:01,052 | INFO | TG: 📋 *AUDCAD — PREPARE (120%)*
+🌍 4H: accumulation
+🐋 D
+2026-10-16 19:58:01,715 | INFO | HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-10-16 19:58:02,021 | INFO | HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-10-16 19:58:02,023 | ERROR | LLM ask (xai): Error code: 403 - {'code': 'permission-denied', 'error': "Your newly created team doesn't have any credits or licenses yet. You can purchase those on 
+2026-10-16 19:58:03,375 | INFO | TG: 📋 *USDCAD — SPRING*
+🌍 4H: markup
+📊 Көлем: 1.33×
+🔗 
+2026-10-16 19:58:05,461 | INFO | TG: 📋 *EURJPY — SPRING*
+🌍 4H: markdown
+📊 Көлем: 1.17×
+
+2026-10-16 19:58:07,316 | INFO | TG: 🟡 *WAIT — EURUSD*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:58:07,809 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-16 19:58:09,181 | INFO | TG: 🟠 *WAIT — AUDCAD*
+
+📊 Level: 120%
+🌍 4H: accumulatio
+2026-10-16 19:58:09,336 | WARNING | San status: 400
+2026-10-16 19:58:09,342 | INFO | 
+📥 Data collection...
+2026-10-16 19:58:10,987 | INFO | TG: 📋 *GBPJPY — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 19:58:12,082 | INFO | 😱 FG: 63
+2026-10-16 19:58:12,863 | INFO | TG: 🟠 *WAIT — GBPJPY*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 19:58:14,872 | INFO | TG: 📋 *AUDNZD — PREPARE (120%)*
+🌍 4H: markup
+🐋 Delta: 
+2026-10-16 19:58:16,883 | INFO | TG: 🟠 *WAIT — AUDNZD*
+
+📊 Level: 120%
+🌍 4H: markup
+🧭 Di
+2026-10-16 19:58:19,010 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-16 19:58:21,294 | INFO | TG: 🧠 *APEX:*
+
+⚠️ LLM жауап бермеді (кілт/желіні тексе
+2026-10-16 19:58:23,185 | INFO | TG: 📋 *EURGBP — SPRING*
+🌍 4H: markdown
+📊 Көлем: 1.27×
+
+2026-10-16 19:58:24,918 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-16 19:58:26,951 | INFO | TG: 🧠 *APEX:*
+
+⚠️ LLM жауап бермеді (кілт/желіні тексе
+2026-10-16 19:58:39,154 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-16 19:58:40,203 | WARNING | San status: 400
+2026-10-16 20:04:33,991 | INFO | 🔁 Fractal Medium cycle (6с) — LLM талдау
+2026-10-16 20:04:34,073 | INFO | 🔁 Fractal Large cycle (24с) — ML retrain
+2026-10-16 20:04:34,274 | INFO | 🔁 Fractal Mega cycle (7к) — толық backtest
+2026-10-16 20:04:34,379 | INFO | 🔄 Incremental (3.1с)...
+2026-10-16 20:04:34,380 | INFO | ⏳ LLM: сигнал аз (0/50)
+2026-10-16 20:04:34,386 | WARNING | ⚠️ Деректер аз
+2026-10-16 20:05:14,465 | INFO | PREPARE: AUDCHF — 120% (BUY)
+2026-10-16 20:05:25,109 | INFO | PREPARE: USDCHF — 120% (BUY)
+2026-10-16 20:05:25,119 | INFO | PREPARE: GBPUSD — 120% (SELL)
+2026-10-16 20:05:25,131 | INFO | 🟡 WAIT: AUDCHF — 120% (BUY)
+2026-10-16 20:05:25,206 | INFO | 🟡 WAIT: USDCHF — 120% (BUY)
+2026-10-16 20:05:38,801 | INFO | 🟡 WAIT: GBPUSD — 120% (SELL)
+2026-10-16 20:05:54,377 | INFO | PREPARE: GBPCHF — 120% (SELL)
+2026-10-16 20:05:54,391 | INFO | PREPARE: EURJPY — 120% (BUY)
+2026-10-16 20:05:56,137 | INFO | 🟡 WAIT: EURJPY — 120% (BUY)
+2026-10-16 20:06:04,981 | INFO | 🟡 WAIT: GBPCHF — 120% (SELL)
+2026-10-16 20:06:07,171 | INFO | TG: 📋 *AUDCHF — PREPARE (120%)*
+🌍 4H: accumulation
+🐋 D
+2026-10-16 20:06:07,193 | INFO | PREPARE: EURGBP — 120% (BUY)
+2026-10-16 20:06:07,219 | INFO | 🟡 WAIT: EURGBP — 120% (BUY)
+2026-10-16 20:06:08,789 | INFO | TG: 📋 *USDCHF — PREPARE (120%)*
+🌍 4H: markup
+🐋 Delta: 
+2026-10-16 20:06:10,649 | INFO | TG: 📋 *GBPUSD — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 20:06:15,888 | INFO | 🔊 Voice жіберілді
+2026-10-16 20:06:16,085 | INFO | TG: 🟡 *WAIT — AUDCHF*
+
+📊 Level: 120%
+🌍 4H: accumulatio
+2026-10-16 20:06:16,230 | INFO | 🔊 Voice жіберілді
+2026-10-16 20:06:16,382 | INFO | 🔊 Voice жіберілді
+2026-10-16 20:06:17,878 | INFO | 🔊 Voice жіберілді
+2026-10-16 20:06:18,161 | INFO | 🔊 Voice жіберілді
+2026-10-16 20:06:18,421 | INFO | TG: 🟡 *WAIT — USDCHF*
+
+📊 Level: 120%
+🌍 4H: markup
+🧭 Di
+2026-10-16 20:06:19,755 | INFO | TG: 🟠 *WAIT — GBPUSD*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 20:06:19,926 | INFO | 🔊 Voice жіберілді
+2026-10-16 20:06:22,108 | INFO | TG: 📋 *GBPCHF — PREPARE (120%)*
+🌍 4H: accumulation
+🐋 D
+2026-10-16 20:06:24,053 | INFO | TG: 📋 *EURJPY — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 20:06:25,824 | INFO | TG: 🟡 *WAIT — EURJPY*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 20:06:28,492 | INFO | TG: 🟠 *WAIT — GBPCHF*
+
+📊 Level: 120%
+🌍 4H: accumulatio
+2026-10-16 20:06:30,211 | INFO | TG: 📋 *EURGBP — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 20:06:32,368 | INFO | TG: 🟡 *WAIT — EURGBP*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 20:06:38,062 | INFO | ML: samples < 200, skip train
+2026-10-16 20:06:41,370 | INFO | 📊 Cycle #10 | 17 symbols
+2026-10-16 20:07:11,331 | INFO | 📊 Cycle #20 | 17 symbols
+2026-10-16 20:07:41,353 | INFO | 📊 Cycle #30 | 17 symbols
+2026-10-16 20:08:11,414 | INFO | 📊 Cycle #40 | 17 symbols
+2026-10-16 20:08:41,435 | INFO | 📊 Cycle #50 | 17 symbols
+2026-10-16 20:09:11,375 | INFO | 📊 Cycle #60 | 17 symbols
+2026-10-16 20:09:41,416 | INFO | 📊 Cycle #70 | 17 symbols
+2026-10-16 20:10:11,389 | INFO | 📊 Cycle #80 | 17 symbols
+2026-10-16 20:10:41,379 | INFO | 📊 Cycle #90 | 17 symbols
+2026-10-16 20:11:11,384 | INFO | 📊 Cycle #100 | 17 symbols
+2026-10-16 20:11:41,421 | INFO | 📊 Cycle #110 | 17 symbols
+2026-10-16 20:12:11,431 | INFO | 📊 Cycle #120 | 17 symbols
+2026-10-16 20:12:41,418 | INFO | 📊 Cycle #130 | 17 symbols
+2026-10-16 20:13:11,423 | INFO | 📊 Cycle #140 | 17 symbols
+2026-10-16 20:13:40,210 | INFO | 
+📥 Data collection...
+2026-10-16 20:13:41,564 | INFO | 📊 Cycle #150 | 17 symbols
+2026-10-16 20:13:43,666 | INFO | 😱 FG: 63
+2026-10-16 20:14:11,648 | INFO | 📊 Cycle #160 | 17 symbols
+2026-10-16 20:14:14,472 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-16 20:14:16,265 | WARNING | San status: 400
+2026-10-16 20:14:41,565 | INFO | 📊 Cycle #170 | 17 symbols
+2026-10-16 20:15:02,953 | INFO | PREPARE: NZDUSD — 120% (SELL)
+2026-10-16 20:15:02,987 | INFO | PREPARE: XAUUSD — 120% (SELL)
+2026-10-16 20:15:02,998 | INFO | PREPARE: AUDJPY — 180% (BUY)
+2026-10-16 20:15:03,145 | INFO | PREPARE: EURUSD — 120% (SELL)
+2026-10-16 20:15:03,174 | INFO | 🟡 WAIT: XAUUSD — 120% (SELL)
+2026-10-16 20:15:03,307 | INFO | PREPARE: GBPJPY — 120% (BUY)
+2026-10-16 20:15:04,401 | INFO | TG: 📋 *NZDUSD — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 20:15:07,224 | INFO | TG: 📋 *XAUUSD — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 20:15:08,421 | WARNING | TG HTTP 400: {"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: C
+2026-10-16 20:15:08,425 | INFO | 🔊 Voice жіберілді
+2026-10-16 20:15:10,842 | INFO | TG: 📋 *EURUSD — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 20:15:13,014 | INFO | TG: 🟠 *WAIT — XAUUSD*
+
+📊 Level: 120%
+🌍 4H: markdown
+🧭 
+2026-10-16 20:15:14,784 | INFO | TG: 📋 *GBPJPY — PREPARE (120%)*
+🌍 4H: markdown
+🐋 Delta
+2026-10-16 20:15:14,934 | INFO | 📊 Cycle #180 | 17 symbols
+2026-10-16 20:15:44,776 | INFO | 📊 Cycle #190 | 17 symbols
+2026-10-16 20:16:14,763 | INFO | 📊 Cycle #200 | 17 symbols
+2026-10-16 20:17:20,842 | INFO | 📊 Cycle #210 | 17 symbols
+2026-10-16 20:17:50,855 | INFO | 📊 Cycle #220 | 17 symbols
+2026-10-16 20:18:20,866 | INFO | 📊 Cycle #230 | 17 symbols
+2026-10-16 20:18:50,891 | INFO | 📊 Cycle #240 | 17 symbols
+2026-10-16 20:19:23,418 | INFO | 📊 Cycle #250 | 17 symbols
+2026-10-16 20:19:53,426 | INFO | 📊 Cycle #260 | 17 symbols
+2026-10-16 20:20:23,500 | INFO | 📊 Cycle #270 | 17 symbols
+2026-10-16 20:20:53,516 | INFO | 📊 Cycle #280 | 17 symbols
+2026-10-16 20:21:23,430 | INFO | 📊 Cycle #290 | 17 symbols
+2026-10-16 20:21:53,520 | INFO | 📊 Cycle #300 | 17 symbols
+2026-10-16 20:22:23,475 | INFO | 📊 Cycle #310 | 17 symbols
+2026-10-16 20:31:47,414 | INFO | ✅ LLM: xAI Grok (grok-3)
+2026-10-16 20:31:52,789 | INFO | ============================================================
+2026-10-16 20:31:52,790 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-16 20:31:52,791 | INFO | ============================================================
+2026-10-16 20:31:53,961 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-16 20:31:53,963 | INFO | 
+📂 Күйді жүктеу...
+2026-10-16 20:31:53,986 | INFO | Жады: 17 фаза
+2026-10-16 20:31:53,988 | INFO | 🚫 Filter өшірілген: 0
+2026-10-16 20:31:53,990 | INFO | 📈 Metrics: 0W / 0L
+2026-10-16 20:31:54,216 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-16 20:31:54,267 | INFO | ✅ Data DB OK
+2026-10-16 20:31:54,318 | INFO | 
+📂 Categories:
+2026-10-16 20:31:54,590 | INFO |   📂 crypto: 0/8
+2026-10-16 20:31:54,591 | INFO |   📂 metals: 2/2
+2026-10-16 20:31:54,593 | INFO |   📂 energies: 0/3
+2026-10-16 20:31:54,595 | INFO |   📂 indices: 4/6
+2026-10-16 20:31:54,596 | INFO |   📂 forex: 15/15
+2026-10-16 20:31:54,597 | INFO | ✅ Categories: 21 symbols
+2026-10-16 20:31:54,615 | INFO | 
+🎓 Learning...
+2026-10-16 20:31:54,660 | INFO | 📂 Learning: 15 паттерн (3.6с)
+2026-10-16 20:31:54,661 | INFO | ✅ Learning тексерілген (3.6с)
+2026-10-16 20:31:54,662 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-16 20:31:54,666 | INFO | ✅ Data collector
+2026-10-16 20:31:54,668 | INFO | ✅ ML trainer (XGBoost)
+2026-10-16 20:31:54,669 | INFO | ✅ Data DB OK
+2026-10-16 20:31:54,670 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-16 20:31:54,670 | INFO | ✅ TG worker
+2026-10-16 20:31:54,674 | INFO | ✅ CB+Chat worker | Security: [528379915]
+2026-10-16 20:31:54,674 | INFO | ✅ CB worker + LLM chat | Security: [528379915]
+2026-10-16 20:31:54,710 | INFO | ✅ Heartbeat + Trailing
+2026-10-16 20:31:54,712 | INFO | ✅ LLM Brain іске қосылды
+2026-10-16 20:31:54,715 | INFO | ✅ Strategy Programmer іске қосылды
+2026-10-16 20:31:54,717 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-16 20:31:54,720 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-16 20:31:54,722 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-16 20:31:54,722 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-16 20:31:54,726 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-16 20:31:54,729 | INFO | ✅ RL agent іске қосылды
+2026-10-16 20:31:54,731 | INFO | ✅ Ablation test іске қосылды
+2026-10-16 20:31:54,732 | INFO | 
+✅ Mode: MANUAL
+2026-10-16 20:31:54,733 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-16 20:31:54,735 | INFO | ✅ Security: [528379915]
+2026-10-16 20:31:54,736 | INFO | ✅ LLM: ON
+2026-10-16 20:31:54,736 | INFO | ✅ Voice: ON
+2026-10-16 20:31:54,737 | INFO | ✅ TV Bridge: ON
+2026-10-16 20:31:54,738 | INFO | ✅ RL Agent: ON
+2026-10-16 20:31:54,738 | INFO | ✅ Hedge: ON
+2026-10-16 20:31:54,739 | INFO | ✅ Filters disabled: жоқ
+2026-10-16 20:31:54,741 | INFO | ============================================================
+2026-10-16 20:31:54,742 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-16 20:33:10,689 | WARNING | TG retry 1/3 in 5s: ('Connection aborted.', RemoteDisconnected('Remote end close
+2026-10-16 20:34:59,844 | WARNING | CB net (1): HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries ex → sleep 5s
+2026-10-16 20:35:43,776 | INFO | TG: 🏎️ *APEX v3 — 6 ҚАТАРЛЫ EDITION*
+
+⚡ *1. Wyckoff En
+2026-10-16 20:36:07,665 | INFO | 📊 Cycle #10 | 17 symbols
+2026-10-16 20:36:20,220 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-16 20:36:21,956 | WARNING | San status: 400
+2026-10-16 20:36:21,960 | INFO | 
+📥 Data collection...
+2026-10-16 20:36:25,477 | INFO | 😱 FG: 63
+2026-10-16 20:36:37,704 | INFO | 📊 Cycle #20 | 17 symbols
+2026-10-16 20:37:01,026 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-16 20:37:02,598 | WARNING | San status: 400
+2026-10-16 20:37:07,646 | INFO | 📊 Cycle #30 | 17 symbols
+2026-10-16 20:37:37,731 | INFO | 📊 Cycle #40 | 17 symbols
+2026-10-16 20:37:45,817 | INFO | 💬 User 528379915: қандай процесс
+2026-10-16 20:37:50,182 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-16 20:37:51,845 | INFO | HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-10-16 20:37:52,291 | INFO | HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 403 Forbidden"
+2026-10-16 20:37:52,295 | ERROR | LLM ask (xai): Error code: 403 - {'code': 'permission-denied', 'error': "Your newly created team doesn't have any credits or licenses yet. You can purchase those on 
+2026-10-16 20:37:57,590 | INFO | TG: 🧠 *APEX:*
+
+⚠️ LLM жауап бермеді (кілт/желіні тексе
+2026-10-16 20:38:07,684 | INFO | 📊 Cycle #50 | 17 symbols
+2026-10-16 20:38:37,680 | INFO | 📊 Cycle #60 | 17 symbols
+2026-10-16 20:39:09,169 | INFO | 📊 Cycle #70 | 17 symbols
+2026-10-16 20:39:38,862 | INFO | 📊 Cycle #80 | 17 symbols
+2026-10-16 20:40:08,905 | INFO | 📊 Cycle #90 | 17 symbols
+2026-10-16 20:40:39,659 | INFO | 📊 Cycle #100 | 17 symbols
+2026-10-16 20:41:09,700 | INFO | 📊 Cycle #110 | 17 symbols
+2026-10-16 20:41:40,132 | INFO | 📊 Cycle #120 | 17 symbols
+2026-10-16 20:41:54,779 | INFO | 🔁 Fractal Medium cycle (6с) — LLM талдау
+2026-10-16 20:41:55,373 | INFO | 🔁 Fractal Large cycle (24с) — ML retrain
+2026-10-16 20:41:55,433 | INFO | 🔁 Fractal Mega cycle (7к) — толық backtest
+2026-10-16 20:41:55,525 | INFO | 🔄 Incremental (3.8с)...
+2026-10-16 20:41:55,648 | WARNING | ⚠️ Деректер аз
+2026-10-16 20:41:56,021 | INFO | ⏳ LLM: сигнал аз (0/50)
+2026-10-16 20:42:09,775 | INFO | 📊 Cycle #130 | 17 symbols
+2026-10-16 20:42:39,835 | INFO | 📊 Cycle #140 | 17 symbols
+2026-10-16 20:43:12,715 | INFO | 📊 Cycle #150 | 17 symbols
+2026-10-16 20:43:43,387 | INFO | 📊 Cycle #160 | 17 symbols
+2026-10-16 20:44:13,566 | INFO | 📊 Cycle #170 | 17 symbols
+2026-10-16 20:44:27,097 | INFO | ML: samples < 200, skip train
+2026-10-16 20:44:43,623 | INFO | 📊 Cycle #180 | 17 symbols
+2026-10-16 20:45:13,739 | INFO | 📊 Cycle #190 | 17 symbols
+2026-10-16 20:45:43,738 | INFO | 📊 Cycle #200 | 17 symbols
+2026-10-16 20:46:13,798 | INFO | 📊 Cycle #210 | 17 symbols
+2026-10-16 20:46:43,959 | INFO | 📊 Cycle #220 | 17 symbols
+2026-10-16 20:47:13,829 | INFO | 📊 Cycle #230 | 17 symbols
+2026-10-16 20:47:43,706 | INFO | 📊 Cycle #240 | 17 symbols
+2026-10-16 20:48:13,732 | INFO | 📊 Cycle #250 | 17 symbols
+2026-10-16 20:48:43,787 | INFO | 📊 Cycle #260 | 17 symbols
+2026-10-16 20:49:13,821 | INFO | 📊 Cycle #270 | 17 symbols
+2026-10-16 20:52:40,330 | INFO | ✅ LLM: Groq primary (llama-3.1-8b-instant)
+2026-10-16 20:52:44,331 | INFO | ============================================================
+2026-10-16 20:52:44,332 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-16 20:52:44,333 | INFO | ============================================================
+2026-10-16 20:52:47,929 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-16 20:52:47,931 | INFO | 
+📂 Күйді жүктеу...
+2026-10-16 20:52:47,951 | INFO | Жады: 17 фаза
+2026-10-16 20:52:47,955 | INFO | 🚫 Filter өшірілген: 0
+2026-10-16 20:52:47,957 | INFO | 📈 Metrics: 0W / 0L
+2026-10-16 20:52:48,039 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-16 20:52:48,060 | INFO | ✅ Data DB OK
+2026-10-16 20:52:48,065 | INFO | 
+📂 Categories:
+2026-10-16 20:52:48,320 | INFO |   📂 crypto: 0/8
+2026-10-16 20:52:48,321 | INFO |   📂 metals: 2/2
+2026-10-16 20:52:48,323 | INFO |   📂 energies: 0/3
+2026-10-16 20:52:48,325 | INFO |   📂 indices: 4/6
+2026-10-16 20:52:48,326 | INFO |   📂 forex: 15/15
+2026-10-16 20:52:48,326 | INFO | ✅ Categories: 21 symbols
+2026-10-16 20:52:48,343 | INFO | 
+🎓 Learning...
+2026-10-16 20:52:48,594 | INFO | 📂 Learning: 15 паттерн (3.9с)
+2026-10-16 20:52:48,595 | INFO | ✅ Learning тексерілген (3.9с)
+2026-10-16 20:52:48,599 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-16 20:52:48,604 | INFO | ✅ Data collector
+2026-10-16 20:52:48,608 | INFO | ✅ ML trainer (XGBoost)
+2026-10-16 20:52:48,610 | INFO | ✅ Data DB OK
+2026-10-16 20:52:48,612 | INFO | ✅ TG worker
+2026-10-16 20:52:48,612 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-16 20:52:48,622 | INFO | ✅ CB+Chat worker | Security: [528379915]
+2026-10-16 20:52:48,623 | INFO | ✅ CB worker + LLM chat | Security: [528379915]
+2026-10-16 20:52:48,642 | INFO | ✅ Heartbeat + Trailing
+2026-10-16 20:52:48,645 | INFO | ✅ LLM Brain іске қосылды
+2026-10-16 20:52:48,647 | INFO | ✅ Strategy Programmer іске қосылды
+2026-10-16 20:52:48,650 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-16 20:52:48,653 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-16 20:52:48,656 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-16 20:52:48,657 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-16 20:52:48,661 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-16 20:52:48,665 | INFO | ✅ RL agent іске қосылды
+2026-10-16 20:52:48,668 | INFO | ✅ Ablation test іске қосылды
+2026-10-16 20:52:48,669 | INFO | 
+✅ Mode: MANUAL
+2026-10-16 20:52:48,671 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-16 20:52:48,672 | INFO | ✅ Security: [528379915]
+2026-10-16 20:52:48,673 | INFO | ✅ LLM: ON
+2026-10-16 20:52:48,674 | INFO | ✅ Voice: ON
+2026-10-16 20:52:48,675 | INFO | ✅ TV Bridge: ON
+2026-10-16 20:52:48,675 | INFO | ✅ RL Agent: ON
+2026-10-16 20:52:48,676 | INFO | ✅ Hedge: ON
+2026-10-16 20:52:48,677 | INFO | ✅ Filters disabled: жоқ
+2026-10-16 20:52:48,678 | INFO | ============================================================
+2026-10-16 20:52:48,679 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-16 20:52:53,499 | INFO | TG: 🏎️ *APEX v3 — 6 ҚАТАРЛЫ EDITION*
+
+⚡ *1. Wyckoff En
+2026-10-16 20:52:58,738 | INFO | 😱 FG: 63
+2026-10-16 20:53:15,976 | INFO | 📊 Cycle #10 | 17 symbols
+2026-10-16 20:53:43,699 | INFO | 💬 User 528379915: не істеп жатыр
+2026-10-16 20:53:46,106 | INFO | 📊 Cycle #20 | 17 symbols
+2026-10-16 20:53:46,426 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-16 20:53:50,266 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-16 20:53:51,466 | WARNING | San status: 400
+2026-10-16 20:53:51,476 | INFO | 
+📥 Data collection...
+2026-10-16 20:53:52,928 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-16 20:53:53,152 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-16 20:53:53,156 | ERROR | LLM ask (groq): Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_e
+2026-10-16 20:53:54,682 | INFO | 😱 FG: 63
+2026-10-16 20:53:54,901 | INFO | TG: 🧠 *APEX:*
+
+⚠️ LLM жауап бермеді (кілт/желіні тексе
+2026-10-16 20:54:16,156 | INFO | 📊 Cycle #30 | 17 symbols
+2026-10-16 20:54:31,185 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-16 20:54:32,904 | WARNING | San status: 400
+2026-10-16 20:54:46,205 | INFO | 📊 Cycle #40 | 17 symbols
+2026-10-16 20:55:16,161 | INFO | 📊 Cycle #50 | 17 symbols
+2026-10-16 20:55:46,216 | INFO | 📊 Cycle #60 | 17 symbols
+2026-10-16 20:56:16,247 | INFO | 📊 Cycle #70 | 17 symbols
+2026-10-16 20:56:46,295 | INFO | 📊 Cycle #80 | 17 symbols
+2026-10-16 20:57:16,241 | INFO | 📊 Cycle #90 | 17 symbols
+2026-10-16 20:57:46,295 | INFO | 📊 Cycle #100 | 17 symbols
+2026-10-16 20:58:16,280 | INFO | 📊 Cycle #110 | 17 symbols
+2026-10-16 20:58:46,295 | INFO | 📊 Cycle #120 | 17 symbols
+2026-10-16 20:59:16,363 | INFO | 📊 Cycle #130 | 17 symbols
+2026-10-16 20:59:46,346 | INFO | 📊 Cycle #140 | 17 symbols
+2026-10-16 21:00:56,140 | INFO | ✅ LLM: Groq primary (llama-3.1-8b-instant)
+2026-10-16 21:01:00,543 | INFO | ============================================================
+2026-10-16 21:01:00,544 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-16 21:01:00,545 | INFO | ============================================================
+2026-10-16 21:01:01,074 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-16 21:01:01,075 | INFO | 
+📂 Күйді жүктеу...
+2026-10-16 21:01:01,076 | INFO | Жады: 17 фаза
+2026-10-16 21:01:01,077 | INFO | 🚫 Filter өшірілген: 0
+2026-10-16 21:01:01,078 | INFO | 📈 Metrics: 0W / 0L
+2026-10-16 21:01:01,082 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-16 21:01:01,084 | INFO | ✅ Data DB OK
+2026-10-16 21:01:01,086 | INFO | 
+📂 Categories:
+2026-10-16 21:01:01,283 | INFO |   📂 crypto: 0/8
+2026-10-16 21:01:01,284 | INFO |   📂 metals: 2/2
+2026-10-16 21:01:01,286 | INFO |   📂 energies: 0/3
+2026-10-16 21:01:01,289 | INFO |   📂 indices: 4/6
+2026-10-16 21:01:01,290 | INFO |   📂 forex: 15/15
+2026-10-16 21:01:01,291 | INFO | ✅ Categories: 21 symbols
+2026-10-16 21:01:01,308 | INFO | 
+🎓 Learning...
+2026-10-16 21:01:01,310 | INFO | 📂 Learning: 15 паттерн (4.1с)
+2026-10-16 21:01:01,310 | INFO | ✅ Learning тексерілген (4.1с)
+2026-10-16 21:01:01,311 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-16 21:01:01,313 | INFO | ✅ Data collector
+2026-10-16 21:01:01,315 | INFO | ✅ ML trainer (XGBoost)
+2026-10-16 21:01:01,315 | INFO | ✅ Data DB OK
+2026-10-16 21:01:01,317 | INFO | ✅ TG worker
+2026-10-16 21:01:01,318 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-16 21:01:01,321 | INFO | ✅ CB+Chat worker | Security: [528379915]
+2026-10-16 21:01:01,322 | INFO | ✅ CB worker + LLM chat | Security: [528379915]
+2026-10-16 21:01:01,329 | INFO | ✅ Heartbeat + Trailing
+2026-10-16 21:01:01,332 | INFO | ✅ LLM Brain іске қосылды
+2026-10-16 21:01:01,334 | INFO | ✅ Strategy Programmer іске қосылды
+2026-10-16 21:01:01,336 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-16 21:01:01,338 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-16 21:01:01,339 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-16 21:01:01,340 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-16 21:01:01,344 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-16 21:01:01,346 | INFO | ✅ RL agent іске қосылды
+2026-10-16 21:01:01,350 | INFO | ✅ Ablation test іске қосылды
+2026-10-16 21:01:01,350 | INFO | 
+✅ Mode: MANUAL
+2026-10-16 21:01:01,353 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-16 21:01:01,354 | INFO | ✅ Security: [528379915]
+2026-10-16 21:01:01,355 | INFO | ✅ LLM: ON
+2026-10-16 21:01:01,357 | INFO | ✅ Voice: ON
+2026-10-16 21:01:01,358 | INFO | ✅ TV Bridge: ON
+2026-10-16 21:01:01,359 | INFO | ✅ RL Agent: ON
+2026-10-16 21:01:01,360 | INFO | ✅ Hedge: ON
+2026-10-16 21:01:01,364 | INFO | ✅ Filters disabled: жоқ
+2026-10-16 21:01:01,364 | INFO | ============================================================
+2026-10-16 21:01:01,367 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-16 21:01:03,437 | INFO | SEQ: GBPJPY — spring (BUY)
+2026-10-16 21:01:03,463 | INFO | SEQ: EURJPY — st
+2026-10-16 21:01:04,753 | INFO | TG: 🏎️ *APEX v3 — 6 ҚАТАРЛЫ EDITION*
+
+⚡ *1. Wyckoff En
+2026-10-16 21:01:06,959 | INFO | TG: 📋 *GBPJPY — SPRING*
+🌍 4H: markdown
+📊 Көлем: 1.08×
+
+2026-10-16 21:01:07,083 | INFO | 😱 FG: 63
+2026-10-16 21:01:20,754 | INFO | TG: 🔗 *EURJPY — ST*
+Seq: st → st
+2026-10-16 21:01:28,672 | INFO | 📊 Cycle #10 | 17 symbols
+2026-10-16 21:01:58,681 | INFO | 📊 Cycle #20 | 17 symbols
+2026-10-16 21:02:28,301 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-16 21:02:28,848 | INFO | 📊 Cycle #30 | 17 symbols
+2026-10-16 21:02:29,879 | WARNING | San status: 400
+2026-10-16 21:02:29,887 | INFO | 
+📥 Data collection...
+2026-10-16 21:02:34,991 | INFO | 😱 FG: 63
+2026-10-16 21:02:57,242 | INFO | 💬 User 528379915: қазір
+2026-10-16 21:02:58,715 | INFO | 📊 Cycle #40 | 17 symbols
+2026-10-16 21:02:59,133 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-16 21:02:59,334 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-16 21:02:59,706 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-16 21:02:59,710 | ERROR | LLM ask (groq): Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_e
+2026-10-16 21:03:01,059 | INFO | TG: 🧠 *APEX:*
+
+⚠️ LLM жауап бермеді (кілт/желіні тексе
+2026-10-16 21:03:28,798 | INFO | 📊 Cycle #50 | 17 symbols
+2026-10-16 21:03:40,086 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-16 21:03:44,873 | WARNING | San status: 400
+2026-10-16 21:03:58,874 | INFO | 📊 Cycle #60 | 17 symbols
+2026-10-16 21:04:28,900 | INFO | 📊 Cycle #70 | 17 symbols
+2026-10-16 21:04:58,898 | INFO | 📊 Cycle #80 | 17 symbols
+2026-10-16 21:05:28,871 | INFO | 📊 Cycle #90 | 17 symbols
+2026-10-16 21:05:30,116 | INFO | 💬 User 528379915: салем
+2026-10-16 21:05:30,453 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-16 21:05:30,621 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-10-16 21:05:30,623 | ERROR | LLM ask (groq): Error code: 404 - {'error': {'message': 'The model `llama-3.1-8b-instant` does not exist or you do not have access to it.', 'type': 'invalid_request_e
+2026-10-16 21:05:31,893 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-16 21:05:33,777 | INFO | TG: 🧠 *APEX:*
+
+⚠️ LLM жауап бермеді (кілт/желіні тексе
+2026-10-16 21:05:58,906 | INFO | 📊 Cycle #100 | 17 symbols
+2026-10-16 21:06:28,893 | INFO | 📊 Cycle #110 | 17 symbols
+2026-10-16 21:06:58,909 | INFO | 📊 Cycle #120 | 17 symbols
+2026-10-16 21:07:28,877 | INFO | 📊 Cycle #130 | 17 symbols
+2026-10-16 21:07:58,895 | INFO | 📊 Cycle #140 | 17 symbols
+2026-10-16 21:08:28,899 | INFO | 📊 Cycle #150 | 17 symbols
+2026-10-17 15:43:38,965 | INFO | ✅ LLM: Groq primary (openai/gpt-oss-20b)
+2026-10-17 15:43:46,087 | INFO | ============================================================
+2026-10-17 15:43:46,090 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-17 15:43:46,094 | INFO | ============================================================
+2026-10-17 15:43:47,324 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-17 15:43:47,325 | INFO | 
+📂 Күйді жүктеу...
+2026-10-17 15:43:47,349 | INFO | Жады: 0 фаза
+2026-10-17 15:43:47,430 | INFO | 🚫 Filter өшірілген: 0
+2026-10-17 15:43:47,434 | INFO | 📈 Metrics: 0W / 0L
+2026-10-17 15:43:47,685 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-17 15:43:47,704 | INFO | ✅ Data DB OK
+2026-10-17 15:43:47,707 | INFO | 
+📂 Categories:
+2026-10-17 15:43:47,976 | INFO |   📂 crypto: 0/8
+2026-10-17 15:43:47,976 | INFO |   📂 metals: 2/2
+2026-10-17 15:43:47,977 | INFO |   📂 energies: 0/3
+2026-10-17 15:43:47,979 | INFO |   📂 indices: 4/6
+2026-10-17 15:43:47,981 | INFO |   📂 forex: 15/15
+2026-10-17 15:43:47,984 | INFO | ✅ Categories: 21 symbols
+2026-10-17 15:43:48,003 | INFO | 
+🎓 Learning...
+2026-10-17 15:43:48,029 | INFO | 📂 Learning: 15 паттерн (22.8с)
+2026-10-17 15:43:48,029 | INFO | ✅ Learning тексерілген (22.8с)
+2026-10-17 15:43:48,032 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-17 15:43:48,037 | INFO | ✅ Data collector
+2026-10-17 15:43:48,040 | INFO | ✅ Data DB OK
+2026-10-17 15:43:48,040 | INFO | ✅ ML trainer (XGBoost)
+2026-10-17 15:43:48,041 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-17 15:43:48,048 | INFO | ✅ TG worker
+2026-10-17 15:43:48,066 | INFO | ✅ CB+Chat worker | Security: [528379915]
+2026-10-17 15:43:48,067 | INFO | ✅ CB worker + LLM chat | Security: [528379915]
+2026-10-17 15:43:48,075 | INFO | ✅ Heartbeat + Trailing
+2026-10-17 15:43:48,077 | INFO | ✅ LLM Brain іске қосылды
+2026-10-17 15:43:48,080 | INFO | ✅ Strategy Programmer іске қосылды
+2026-10-17 15:43:48,082 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-17 15:43:48,085 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-17 15:43:48,090 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-17 15:43:48,090 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-17 15:43:48,096 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-17 15:43:48,099 | INFO | ✅ RL agent іске қосылды
+2026-10-17 15:43:48,101 | INFO | ✅ Ablation test іске қосылды
+2026-10-17 15:43:48,104 | INFO | 
+✅ Mode: MANUAL
+2026-10-17 15:43:48,106 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-17 15:43:48,109 | INFO | ✅ Security: [528379915]
+2026-10-17 15:43:48,111 | INFO | ✅ LLM: ON
+2026-10-17 15:43:48,113 | INFO | ✅ Voice: ON
+2026-10-17 15:43:48,114 | INFO | ✅ TV Bridge: ON
+2026-10-17 15:43:48,117 | INFO | ✅ RL Agent: ON
+2026-10-17 15:43:48,121 | INFO | ✅ Hedge: ON
+2026-10-17 15:43:48,124 | INFO | ✅ Filters disabled: жоқ
+2026-10-17 15:43:48,126 | INFO | ============================================================
+2026-10-17 15:43:48,129 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-17 15:43:53,406 | INFO | 😱 FG: 55
+2026-10-17 15:44:00,020 | INFO | TG: 🏎️ *APEX v3 — 6 ҚАТАРЛЫ EDITION*
+
+⚡ *1. Wyckoff En
+2026-10-17 15:44:15,522 | INFO | 📊 Cycle #10 | 0 symbols
+2026-10-17 15:44:18,085 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-17 15:44:27,430 | WARNING | San status: 400
+2026-10-17 15:44:27,436 | INFO | 
+📥 Data collection...
+2026-10-17 15:44:30,122 | INFO | 😱 FG: 55
+2026-10-17 15:44:52,217 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-17 15:44:52,959 | INFO | 📊 Cycle #20 | 0 symbols
+2026-10-17 15:44:53,469 | WARNING | San status: 400
+2026-10-17 15:45:22,931 | INFO | 📊 Cycle #30 | 0 symbols
+2026-10-17 15:45:32,129 | INFO | 💬 User 528379915: салем
+2026-10-17 15:45:33,819 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:45:35,521 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:45:37,009 | INFO | TG: 🧠 *APEX:*
+
+Салем! Қалай көмектесе аламын?
+2026-10-17 15:45:52,950 | INFO | 📊 Cycle #40 | 0 symbols
+2026-10-17 15:45:56,354 | INFO | 💬 User 528379915: өзіңді өзің диагностика жаса
+2026-10-17 15:45:57,896 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:45:57,972 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:45:59,868 | INFO | TG: 🧠 *APEX:*
+
+Менің ағымдағы күйім: режим MANUAL, бар
+2026-10-17 15:46:16,194 | WARNING | CB net (1): ('Connection aborted.', RemoteDisconnected('Remote end closed connecti → sleep 5s
+2026-10-17 15:46:23,005 | INFO | 📊 Cycle #50 | 0 symbols
+2026-10-17 15:46:23,619 | WARNING | CB net (2): ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост пр → sleep 10s
+2026-10-17 15:46:41,733 | INFO | 💬 User 528379915: не проблема шықты
+2026-10-17 15:46:43,560 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:46:43,955 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:46:49,236 | INFO | TG: 🧠 *APEX:*
+
+Қателік пайда болды, себебі фильтрлер д
+2026-10-17 15:46:52,952 | INFO | 📊 Cycle #60 | 0 symbols
+2026-10-17 15:47:12,305 | INFO | 💬 User 528379915: қаи фильтр
+2026-10-17 15:47:13,518 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:47:13,569 | INFO | 🧠 LLM: filter OFF → ai
+2026-10-17 15:47:14,211 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:47:15,712 | INFO | TG: 🧠 *APEX:*
+
+Фильтр ai өшірілді.
+
+🚫 `ai` өшірілді
+2026-10-17 15:47:22,951 | INFO | 📊 Cycle #70 | 0 symbols
+2026-10-17 15:47:28,330 | INFO | 💬 User 528379915: қосу керек
+2026-10-17 15:47:30,094 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:47:30,103 | INFO | 🧠 LLM: filter ON → ai
+2026-10-17 15:47:31,018 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:47:34,583 | INFO | TG: 🧠 *APEX:*
+
+AI фильтрі қосылды. Қосымша сұрақтарыңы
+2026-10-17 15:47:52,405 | INFO | 💬 User 528379915: атың кім
+2026-10-17 15:47:53,001 | INFO | 📊 Cycle #80 | 0 symbols
+2026-10-17 15:47:53,290 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:47:54,090 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:47:55,754 | INFO | TG: 🧠 *APEX:*
+
+Менің атым APEX Trading Assistant. Мен 
+2026-10-17 15:48:22,982 | INFO | 📊 Cycle #90 | 0 symbols
+2026-10-17 15:48:51,350 | INFO | 💬 User 528379915: не құдыретін бар
+2026-10-17 15:48:52,973 | INFO | 📊 Cycle #100 | 0 symbols
+2026-10-17 15:48:55,517 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:48:59,169 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:49:01,418 | INFO | TG: 🧠 *APEX:*
+
+Мен APEX v3 трейдинг ботының AI көмекші
+2026-10-17 15:49:22,991 | INFO | 📊 Cycle #110 | 0 symbols
+2026-10-17 15:49:25,370 | INFO | 💬 User 528379915: қай методика қолданасың
+2026-10-17 15:49:26,238 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:49:26,922 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:49:32,076 | INFO | TG: 🧠 *APEX:*
+
+APEX v3 трейдинг ботының AI көмекшісі р
+2026-10-17 15:49:52,995 | INFO | 📊 Cycle #120 | 0 symbols
+2026-10-17 15:49:54,414 | INFO | 💬 User 528379915: қац жерің бұзылып тұо
+2026-10-17 15:49:59,784 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:50:09,194 | WARNING | TG retry 1/3 in 5s: HTTPSConnectionPool(host='api.telegram.org', port=443): Read
+2026-10-17 15:50:22,996 | INFO | 📊 Cycle #130 | 0 symbols
+2026-10-17 15:50:25,318 | WARNING | TG retry 2/3 in 10s: HTTPSConnectionPool(host='api.telegram.org', port=443): Read
+2026-10-17 15:50:30,994 | WARNING | CB net (1): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out → sleep 5s
+2026-10-17 15:50:45,328 | WARNING | TG retry 3/3 in 20s: HTTPSConnectionPool(host='api.telegram.org', port=443): Max 
+2026-10-17 15:50:52,997 | INFO | 📊 Cycle #140 | 0 symbols
+2026-10-17 15:51:06,534 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:51:08,000 | INFO | TG: 🧠 *APEX:*
+
+Қайырлы күн! Қателіктер үшін кешірім сұ
+2026-10-17 15:51:23,022 | INFO | 💬 User 528379915: басынан
+2026-10-17 15:51:23,022 | INFO | 📊 Cycle #150 | 0 symbols
+2026-10-17 15:51:24,621 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:51:25,145 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:51:26,454 | INFO | TG: 🧠 *APEX:*
+
+Қалай көмектесе аламын?
+2026-10-17 15:51:43,196 | INFO | 💬 User 528379915: өзің толық қателіктеріңді тексер
+2026-10-17 15:51:44,514 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:51:44,732 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:51:46,498 | INFO | TG: 🧠 *APEX:*
+
+Қайта тексеру барысында ешқандай қате т
+2026-10-17 15:51:53,049 | INFO | 📊 Cycle #160 | 0 symbols
+2026-10-17 15:52:06,516 | INFO | 💬 User 528379915: сенің рл дәрежең туралы айтып берші
+2026-10-17 15:52:07,364 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:52:08,049 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:52:19,748 | INFO | TG: 🧠 *APEX:*
+
+Менің RL деңгейім 3.5, бұл менің страте
+2026-10-17 15:52:23,031 | INFO | 📊 Cycle #170 | 0 symbols
+2026-10-17 15:52:53,035 | INFO | 📊 Cycle #180 | 0 symbols
+2026-10-17 15:52:53,364 | INFO | 💬 User 528379915: сонғы сигналдар туралы аит
+2026-10-17 15:52:54,051 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:52:54,863 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:52:56,542 | INFO | TG: 🧠 *APEX:*
+
+Соңғы сигналдар бойынша: 1) X-да 3% өсі
+2026-10-17 15:53:19,555 | INFO | 💬 User 528379915: өзіңді үйреттіңба солар арқылы
+2026-10-17 15:53:20,649 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:53:21,375 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:53:22,791 | INFO | TG: 🧠 *APEX:*
+
+Мен өзімді үйрету үшін осы параметрлерд
+2026-10-17 15:53:23,036 | INFO | 📊 Cycle #190 | 0 symbols
+2026-10-17 15:53:48,085 | INFO | 🔁 Fractal Medium cycle (6с) — LLM талдау
+2026-10-17 15:53:48,092 | INFO | 🔁 Fractal Large cycle (24с) — ML retrain
+2026-10-17 15:53:48,097 | INFO | 🔁 Fractal Mega cycle (7к) — толық backtest
+2026-10-17 15:53:48,102 | INFO | 🔄 Incremental (23.0с)...
+2026-10-17 15:53:48,104 | WARNING | ⚠️ Деректер аз
+2026-10-17 15:53:48,164 | INFO | ⏳ LLM: сигнал аз (0/50)
+2026-10-17 15:53:50,671 | INFO | 💬 User 528379915: жұмысыңды жасай бер жалғастыр бүгін субота
+2026-10-17 15:53:51,928 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:53:52,330 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:53:53,030 | INFO | 📊 Cycle #200 | 0 symbols
+2026-10-17 15:54:04,018 | INFO | TG: 🧠 *APEX:*
+
+Суботада да барынша тиімді жұмыс жасайм
+2026-10-17 15:54:15,650 | INFO | 💬 User 528379915: керек емес
+2026-10-17 15:54:16,574 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:54:17,068 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:54:18,898 | INFO | TG: 🧠 *APEX:*
+
+Қазіргі уақытта ешқандай өзгеріс қажет 
+2026-10-17 15:54:23,076 | INFO | 📊 Cycle #210 | 0 symbols
+2026-10-17 15:54:35,456 | INFO | 💬 User 528379915: сигнал тап
+2026-10-17 15:54:36,633 | INFO | ML: samples < 200, skip train
+2026-10-17 15:54:36,767 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:54:36,998 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:54:38,770 | WARNING | ⚠️ TG Markdown қатесі, қарапайым мәтінмен жіберілуде...
+2026-10-17 15:54:40,023 | INFO | TG: 🧠 *APEX:*
+
+Қазіргі нарықтық жағдай бойынша, 1.5% V
+2026-10-17 15:54:53,070 | INFO | 📊 Cycle #220 | 0 symbols
+2026-10-17 15:55:11,818 | WARNING | CB net (1): HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out → sleep 5s
+2026-10-17 15:55:21,821 | INFO | 💬 User 528379915: өзің еүціңді жалғастыр чат стоп
+2026-10-17 15:55:23,097 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-17 15:55:23,097 | INFO | 📊 Cycle #230 | 0 symbols
+2026-10-17 15:55:23,451 | INFO | TG: 🧠 _Ойланып жатырмын..._
+2026-10-17 15:55:25,618 | INFO | TG: 🧠 *APEX:*
+
+Қосымша сұрақтарыңыз болса, хабарласыңы
+2026-10-17 15:55:53,098 | INFO | 📊 Cycle #240 | 0 symbols
+2026-10-17 15:56:23,157 | INFO | 📊 Cycle #250 | 0 symbols
+2026-10-17 15:56:53,107 | INFO | 📊 Cycle #260 | 0 symbols
+2026-10-17 15:57:23,116 | INFO | 📊 Cycle #270 | 0 symbols
+2026-10-17 15:57:53,129 | INFO | 📊 Cycle #280 | 0 symbols
+2026-10-17 15:58:23,122 | INFO | 📊 Cycle #290 | 0 symbols
+2026-10-17 15:58:59,407 | INFO | 📊 Cycle #300 | 0 symbols
+2026-10-17 15:59:30,604 | INFO | 📊 Cycle #310 | 0 symbols
+2026-10-17 15:59:53,477 | INFO | 
+📥 Data collection...
+2026-10-17 15:59:57,138 | INFO | 😱 FG: 55
+2026-10-17 16:00:00,632 | INFO | 📊 Cycle #320 | 0 symbols
+2026-10-17 16:00:30,351 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-17 16:00:30,731 | INFO | 📊 Cycle #330 | 0 symbols
+2026-10-17 16:00:31,702 | WARNING | San status: 400
+2026-10-17 16:01:00,718 | INFO | 📊 Cycle #340 | 0 symbols
+2026-10-17 16:01:30,715 | INFO | 📊 Cycle #350 | 0 symbols
+2026-10-17 16:02:00,739 | INFO | 📊 Cycle #360 | 0 symbols
+2026-10-17 16:02:30,741 | INFO | 📊 Cycle #370 | 0 symbols
+2026-10-17 16:03:00,751 | INFO | 📊 Cycle #380 | 0 symbols
+2026-10-17 16:03:30,762 | INFO | 📊 Cycle #390 | 0 symbols
+2026-10-17 16:04:00,757 | INFO | 📊 Cycle #400 | 0 symbols
+2026-10-17 16:04:30,791 | INFO | 📊 Cycle #410 | 0 symbols
+2026-10-17 16:05:00,769 | INFO | 📊 Cycle #420 | 0 symbols
+2026-10-17 16:05:30,779 | INFO | 📊 Cycle #430 | 0 symbols
+2026-10-17 16:06:00,784 | INFO | 📊 Cycle #440 | 0 symbols
+2026-10-17 16:06:30,796 | INFO | 📊 Cycle #450 | 0 symbols
+2026-10-17 16:07:00,795 | INFO | 📊 Cycle #460 | 0 symbols
+2026-10-17 16:07:30,806 | INFO | 📊 Cycle #470 | 0 symbols
+2026-10-17 16:08:00,806 | INFO | 📊 Cycle #480 | 0 symbols
+2026-10-17 16:08:30,839 | INFO | 📊 Cycle #490 | 0 symbols
+2026-10-17 16:09:00,839 | INFO | 📊 Cycle #500 | 0 symbols
+2026-10-17 16:09:30,822 | INFO | 📊 Cycle #510 | 0 symbols
+2026-10-17 16:10:00,828 | INFO | 📊 Cycle #520 | 0 symbols
+2026-10-17 16:10:30,856 | INFO | 📊 Cycle #530 | 0 symbols
+2026-10-17 16:11:00,878 | INFO | 📊 Cycle #540 | 0 symbols
+2026-10-17 16:11:30,859 | INFO | 📊 Cycle #550 | 0 symbols
+2026-10-17 16:12:00,885 | INFO | 📊 Cycle #560 | 0 symbols
+2026-10-18 02:25:52,306 | INFO | ✅ LLM: Groq primary (openai/gpt-oss-20b)
+2026-10-18 02:25:56,367 | INFO | ============================================================
+2026-10-18 02:25:56,368 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-18 02:25:56,398 | INFO | ============================================================
+2026-10-18 02:27:40,888 | ERROR | MT5: (-10003, "IPC initialize failed, Pipe server didn't answer in 60 sec")
+2026-10-18 02:27:40,892 | ERROR | ❌ MT5 қосылу сәтсіз
+2026-10-18 02:27:40,951 | INFO | ============================================================
+2026-10-18 02:27:41,149 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-18 02:27:41,153 | INFO | ============================================================
+2026-10-18 02:28:21,047 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-18 02:28:21,048 | INFO | 
+📂 Күйді жүктеу...
+2026-10-18 02:28:24,684 | INFO | Жады: 0 фаза
+2026-10-18 02:28:25,805 | INFO | 🚫 Filter өшірілген: 0
+2026-10-18 02:28:25,807 | INFO | 📈 Metrics: 0W / 0L
+2026-10-18 02:28:29,650 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-18 02:28:29,746 | INFO | ✅ Data DB OK
+2026-10-18 02:28:29,911 | INFO | 
+📂 Categories:
+2026-10-18 02:28:30,291 | INFO |   📂 crypto: 0/8
+2026-10-18 02:28:30,292 | INFO |   📂 metals: 2/2
+2026-10-18 02:28:30,296 | INFO |   📂 energies: 0/3
+2026-10-18 02:28:30,298 | INFO |   📂 indices: 4/6
+2026-10-18 02:28:30,301 | INFO |   📂 forex: 15/15
+2026-10-18 02:28:30,303 | INFO | ✅ Categories: 21 symbols
+2026-10-18 02:28:30,324 | INFO | 
+🎓 Learning...
+2026-10-18 02:28:30,497 | INFO | 📂 Learning: 15 паттерн (33.5с)
+2026-10-18 02:28:30,497 | INFO | 🔄 Learning жаңарту (33.5с)
+2026-10-18 02:28:30,501 | INFO | 🔄 Incremental (33.5с)...
+2026-10-18 02:28:43,526 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-18 02:28:43,532 | INFO | ✅ Data collector
+2026-10-18 02:28:43,555 | INFO | ✅ ML trainer (XGBoost)
+2026-10-18 02:28:43,557 | INFO | ✅ Data DB OK
+2026-10-18 02:28:43,560 | INFO | ✅ TG worker
+2026-10-18 02:28:43,563 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-18 02:28:43,578 | INFO | ✅ CB+Chat worker | Security: [528379915]
+2026-10-18 02:28:43,578 | INFO | ✅ CB worker + LLM chat | Security: [528379915]
+2026-10-18 02:28:43,630 | INFO | ✅ Heartbeat + Trailing
+2026-10-18 02:28:43,631 | INFO | ✅ LLM Brain іске қосылды
+2026-10-18 02:28:43,633 | INFO | ✅ Strategy Programmer іске қосылды
+2026-10-18 02:28:43,634 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-18 02:28:43,636 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-18 02:28:43,638 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-18 02:28:43,638 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-18 02:28:43,644 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-18 02:28:43,647 | INFO | ✅ RL agent іске қосылды
+2026-10-18 02:28:43,651 | INFO | ✅ Shazam v4 worker іске қосылды
+2026-10-18 02:28:43,654 | INFO | ✅ Ablation test іске қосылды
+2026-10-18 02:28:43,654 | INFO | 
+✅ Mode: MANUAL
+2026-10-18 02:28:43,656 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-18 02:28:43,657 | INFO | ✅ Security: [528379915]
+2026-10-18 02:28:43,658 | INFO | ✅ LLM: ON
+2026-10-18 02:28:43,659 | INFO | ✅ Voice: ON
+2026-10-18 02:28:43,660 | INFO | ✅ TV Bridge: ON
+2026-10-18 02:28:43,661 | INFO | ✅ RL Agent: ON
+2026-10-18 02:28:43,662 | INFO | ✅ Hedge: ON
+2026-10-18 02:28:43,663 | INFO | ✅ Filters disabled: жоқ
+2026-10-18 02:28:43,664 | INFO | ============================================================
+2026-10-18 02:28:43,665 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-18 02:28:50,788 | INFO | 😱 FG: 55
+2026-10-18 02:28:55,373 | INFO | TG: 🏎️ *APEX v3 — 6 ҚАТАРЛЫ EDITION*
+
+⚡ *1. Wyckoff En
+2026-10-18 02:28:59,295 | INFO | Loading faiss.
+2026-10-18 02:29:05,083 | INFO | Successfully loaded faiss.
+2026-10-18 02:29:11,165 | INFO | 📊 Cycle #10 | 0 symbols
+2026-10-18 02:29:13,309 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-18 02:29:15,755 | WARNING | San status: 400
+2026-10-18 02:29:15,758 | INFO | 
+📥 Data collection...
+2026-10-18 02:29:18,895 | INFO | 😱 FG: 55
+2026-10-18 02:29:39,147 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-18 02:29:40,356 | WARNING | San status: 400
+2026-10-18 02:29:41,085 | INFO | 📊 Cycle #20 | 0 symbols
+2026-10-18 02:30:07,221 | ERROR | Shazam module load: 'NoneType' object has no attribute '__dict__'
+2026-10-18 02:30:11,110 | INFO | 📊 Cycle #30 | 0 symbols
+2026-10-18 02:30:41,117 | INFO | 📊 Cycle #40 | 0 symbols
+2026-10-18 02:31:11,130 | INFO | 📊 Cycle #50 | 0 symbols
+2026-10-18 02:31:41,116 | INFO | 📊 Cycle #60 | 0 symbols
+2026-10-18 02:32:38,858 | INFO | 📊 Cycle #70 | 0 symbols
+2026-10-18 02:33:14,628 | INFO | 📊 Cycle #80 | 0 symbols
+2026-10-18 02:33:44,596 | INFO | 📊 Cycle #90 | 0 symbols
+2026-10-18 02:34:14,603 | INFO | 📊 Cycle #100 | 0 symbols
+2026-10-18 02:34:44,609 | INFO | 📊 Cycle #110 | 0 symbols
+2026-10-18 02:35:14,659 | INFO | 📊 Cycle #120 | 0 symbols
+2026-10-18 02:35:30,786 | WARNING | CB net (1): ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост пр → sleep 5s
+2026-10-18 02:35:44,944 | INFO | 📊 Cycle #130 | 0 symbols
+2026-10-18 02:36:14,867 | INFO | 📊 Cycle #140 | 0 symbols
+2026-10-18 02:36:44,753 | INFO | 📊 Cycle #150 | 0 symbols
+2026-10-18 02:37:14,901 | INFO | 📊 Cycle #160 | 0 symbols
+2026-10-18 02:37:44,706 | INFO | 📊 Cycle #170 | 0 symbols
+2026-10-18 02:38:14,720 | INFO | 📊 Cycle #180 | 0 symbols
+2026-10-18 02:39:49,432 | INFO | ✅ LLM: Groq primary (openai/gpt-oss-20b)
+2026-10-18 02:39:51,516 | INFO | ============================================================
+2026-10-18 02:39:51,517 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-18 02:39:51,518 | INFO | ============================================================
+2026-10-18 02:39:52,099 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-18 02:39:52,100 | INFO | 
+📂 Күйді жүктеу...
+2026-10-18 02:39:52,150 | INFO | Жады: 0 фаза
+2026-10-18 02:39:52,154 | INFO | 🚫 Filter өшірілген: 0
+2026-10-18 02:39:52,156 | INFO | 📈 Metrics: 0W / 0L
+2026-10-18 02:39:52,407 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-18 02:39:52,587 | INFO | ✅ Data DB OK
+2026-10-18 02:39:52,591 | INFO | 
+📂 Categories:
+2026-10-18 02:39:52,813 | INFO |   📂 crypto: 0/8
+2026-10-18 02:39:52,814 | INFO |   📂 metals: 2/2
+2026-10-18 02:39:52,815 | INFO |   📂 energies: 0/3
+2026-10-18 02:39:52,816 | INFO |   📂 indices: 4/6
+2026-10-18 02:39:52,817 | INFO |   📂 forex: 15/15
+2026-10-18 02:39:52,818 | INFO | ✅ Categories: 21 symbols
+2026-10-18 02:39:52,837 | INFO | 
+🎓 Learning...
+2026-10-18 02:39:52,920 | INFO | 📂 Learning: 15 паттерн (33.7с)
+2026-10-18 02:39:52,921 | INFO | 🔄 Learning жаңарту (33.7с)
+2026-10-18 02:39:52,923 | INFO | 🔄 Incremental (33.7с)...
+2026-10-18 02:39:58,487 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-18 02:39:58,494 | INFO | ✅ Data collector
+2026-10-18 02:39:58,499 | INFO | ✅ Data DB OK
+2026-10-18 02:39:58,500 | INFO | ✅ ML trainer (XGBoost)
+2026-10-18 02:39:58,502 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-18 02:39:58,509 | INFO | ✅ TG worker
+2026-10-18 02:39:58,517 | INFO | ✅ CB+Chat worker | Security: [528379915]
+2026-10-18 02:39:58,517 | INFO | ✅ CB worker + LLM chat | Security: [528379915]
+2026-10-18 02:39:58,530 | INFO | ✅ Heartbeat + Trailing
+2026-10-18 02:39:58,534 | INFO | ✅ LLM Brain іске қосылды
+2026-10-18 02:39:58,536 | INFO | ✅ Strategy Programmer іске қосылды
+2026-10-18 02:39:58,539 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-18 02:39:58,541 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-18 02:39:58,544 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-18 02:39:58,544 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-18 02:39:58,551 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-18 02:39:58,554 | INFO | ✅ RL agent іске қосылды
+2026-10-18 02:39:58,556 | INFO | ✅ Shazam v4 worker іске қосылды
+2026-10-18 02:39:58,558 | INFO | ✅ Ablation test іске қосылды
+2026-10-18 02:39:58,559 | INFO | 
+✅ Mode: MANUAL
+2026-10-18 02:39:58,560 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-18 02:39:58,562 | INFO | ✅ Security: [528379915]
+2026-10-18 02:39:58,563 | INFO | ✅ LLM: ON
+2026-10-18 02:39:58,563 | INFO | ✅ Voice: ON
+2026-10-18 02:39:58,564 | INFO | ✅ TV Bridge: ON
+2026-10-18 02:39:58,567 | INFO | ✅ RL Agent: ON
+2026-10-18 02:39:58,569 | INFO | ✅ Hedge: ON
+2026-10-18 02:39:58,569 | INFO | ✅ Filters disabled: жоқ
+2026-10-18 02:39:58,570 | INFO | ============================================================
+2026-10-18 02:39:58,570 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-18 02:40:01,081 | INFO | TG: 🏎️ *APEX v3 — 6 ҚАТАРЛЫ EDITION*
+
+⚡ *1. Wyckoff En
+2026-10-18 02:40:15,319 | INFO | 😱 FG: 55
+2026-10-18 02:40:18,594 | INFO | Loading faiss.
+2026-10-18 02:40:18,916 | INFO | Successfully loaded faiss.
+2026-10-18 02:40:35,919 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-18 02:40:38,164 | WARNING | San status: 400
+2026-10-18 02:40:38,168 | INFO | 
+📥 Data collection...
+2026-10-18 02:40:39,927 | INFO | 📊 Cycle #10 | 2 symbols
+2026-10-18 02:40:41,199 | INFO | 😱 FG: 55
+2026-10-18 02:40:46,863 | INFO | ✅ Shazam module: import OK
+2026-10-18 02:40:46,864 | INFO | 🎵 Shazam v4 старт: XAUUSD | RL steps=200000
+2026-10-18 02:40:58,731 | ERROR | Shazam data: Cannot set a DataFrame with multiple columns to the single column VolMA
+2026-10-18 02:41:17,285 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-18 02:41:18,385 | WARNING | San status: 400
+2026-10-18 02:41:19,345 | INFO | 📊 Cycle #20 | 2 symbols
+2026-10-18 02:41:49,446 | INFO | 📊 Cycle #30 | 2 symbols
+2026-10-18 02:42:19,536 | INFO | 📊 Cycle #40 | 2 symbols
+2026-10-18 02:42:49,584 | INFO | 📊 Cycle #50 | 2 symbols
+2026-10-18 02:43:19,803 | INFO | 📊 Cycle #60 | 2 symbols
+2026-10-18 02:43:49,573 | INFO | 📊 Cycle #70 | 2 symbols
+2026-10-18 02:44:19,611 | INFO | 📊 Cycle #80 | 2 symbols
+2026-10-18 02:44:49,642 | INFO | 📊 Cycle #90 | 2 symbols
+2026-10-18 02:45:19,895 | INFO | 📊 Cycle #100 | 2 symbols
+2026-10-18 02:45:49,701 | INFO | 📊 Cycle #110 | 2 symbols
+2026-10-18 02:46:19,696 | INFO | 📊 Cycle #120 | 2 symbols
+2026-10-18 02:46:49,727 | INFO | 📊 Cycle #130 | 2 symbols
+2026-10-18 02:47:19,737 | INFO | 📊 Cycle #140 | 2 symbols
+2026-10-18 02:47:49,710 | INFO | 📊 Cycle #150 | 2 symbols
+2026-10-18 02:48:19,798 | INFO | 📊 Cycle #160 | 2 symbols
+2026-10-18 02:48:49,785 | INFO | 📊 Cycle #170 | 2 symbols
+2026-10-18 02:49:19,775 | INFO | 📊 Cycle #180 | 2 symbols
+2026-10-18 02:49:49,831 | INFO | 📊 Cycle #190 | 2 symbols
+2026-10-18 02:49:58,542 | INFO | 🔁 Fractal Medium cycle (6с) — LLM талдау
+2026-10-18 02:49:58,546 | INFO | 🔁 Fractal Large cycle (24с) — ML retrain
+2026-10-18 02:49:58,549 | INFO | 🔁 Fractal Mega cycle (7к) — толық backtest
+2026-10-18 02:49:58,551 | INFO | 🔄 Incremental (33.9с)...
+2026-10-18 02:49:58,841 | INFO | ⏳ LLM: сигнал аз (0/50)
+2026-10-18 02:50:18,440 | INFO | ML: samples < 200, skip train
+2026-10-18 02:50:19,768 | INFO | 📊 Cycle #200 | 2 symbols
+2026-10-18 02:50:49,829 | INFO | 📊 Cycle #210 | 2 symbols
+2026-10-18 02:51:20,001 | INFO | 📊 Cycle #220 | 2 symbols
+2026-10-18 02:51:49,839 | INFO | 📊 Cycle #230 | 2 symbols
+2026-10-18 02:52:19,815 | INFO | 📊 Cycle #240 | 2 symbols
+2026-10-18 02:52:49,820 | INFO | 📊 Cycle #250 | 2 symbols
+2026-10-18 02:53:19,868 | INFO | 📊 Cycle #260 | 2 symbols
+2026-10-18 02:53:49,913 | INFO | 📊 Cycle #270 | 2 symbols
+2026-10-18 02:54:19,941 | INFO | 📊 Cycle #280 | 2 symbols
+2026-10-18 02:54:49,862 | INFO | 📊 Cycle #290 | 2 symbols
+2026-10-18 02:55:19,912 | INFO | 📊 Cycle #300 | 2 symbols
+2026-10-18 02:55:49,884 | INFO | 📊 Cycle #310 | 2 symbols
+2026-10-18 02:56:18,389 | INFO | 
+📥 Data collection...
+2026-10-18 02:56:19,893 | INFO | 📊 Cycle #320 | 2 symbols
+2026-10-18 02:56:21,385 | INFO | 😱 FG: 55
+2026-10-18 02:56:49,925 | INFO | 📊 Cycle #330 | 2 symbols
+2026-10-18 02:57:19,922 | INFO | 📊 Cycle #340 | 2 symbols
+2026-10-18 02:57:49,989 | INFO | 📊 Cycle #350 | 2 symbols
+2026-10-18 02:58:03,353 | INFO | ✅ Shazam v4: patterns=1322 rl=True src=yfinance
+2026-10-18 02:58:03,359 | INFO | ✅ Shazam v4: {'ready': True, 'patterns': 1322, 'rl_ready': True, 'source': 'yfinance'}
+2026-10-18 02:58:14,579 | INFO | TG: 🎵 *Shazam v4 дайын*
+Паттерн: `1322`
+RL: `✅`
+Дерек:
+2026-10-18 02:58:20,389 | INFO | 📊 Cycle #360 | 2 symbols
+2026-10-18 02:58:50,319 | INFO | 📊 Cycle #370 | 2 symbols
+2026-10-18 02:59:20,216 | INFO | 📊 Cycle #380 | 2 symbols
+2026-10-18 02:59:50,237 | INFO | 📊 Cycle #390 | 2 symbols
+2026-10-18 03:00:20,448 | INFO | 📊 Cycle #400 | 2 symbols
+2026-10-18 03:00:50,235 | INFO | 📊 Cycle #410 | 2 symbols
+2026-10-18 03:01:20,272 | INFO | 📊 Cycle #420 | 2 symbols
+2026-10-18 03:01:50,279 | INFO | 📊 Cycle #430 | 2 symbols
+2026-10-18 03:02:20,320 | INFO | 📊 Cycle #440 | 2 symbols
+2026-10-18 03:02:50,312 | INFO | 📊 Cycle #450 | 2 symbols
+2026-10-18 03:03:20,342 | INFO | 📊 Cycle #460 | 2 symbols
+2026-10-18 03:03:50,494 | INFO | 📊 Cycle #470 | 2 symbols
+2026-10-18 03:04:20,322 | INFO | 📊 Cycle #480 | 2 symbols
+2026-10-18 03:04:50,368 | INFO | 📊 Cycle #490 | 2 symbols
+2026-10-18 03:05:20,338 | INFO | 📊 Cycle #500 | 2 symbols
+2026-10-18 12:50:51,538 | WARNING | CB net (1): ('Connection aborted.', RemoteDisconnected('Remote end closed connecti → sleep 5s
+2026-10-18 12:52:47,683 | INFO | 🔁 Fractal Medium cycle (6с) — LLM талдау
+2026-10-18 12:53:28,728 | INFO | ⏳ LLM: сигнал аз (0/50)
+2026-10-18 12:53:32,223 | INFO | 📊 Cycle #510 | 2 symbols
+2026-10-18 12:54:02,149 | INFO | 📊 Cycle #520 | 2 symbols
+2026-10-18 12:54:05,593 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-18 12:54:07,167 | WARNING | San status: 400
+2026-10-18 12:54:15,233 | WARNING | ⚠️ TG Markdown қатесі, қарапайым мәтінмен жіберілуде...
+2026-10-18 12:54:18,366 | INFO | TG: 💚 *APEX v3 — ТІРІ*
+
+⏰ 12:54:07
+⏱ 10с 13м
+🔄 521
+📨 0
+2026-10-18 12:54:32,046 | INFO | 📊 Cycle #530 | 2 symbols
+2026-10-18 12:55:00,418 | INFO | 🧠 LLM Brain — талдау басталды...
+2026-10-18 12:55:00,596 | INFO | ⏳ LLM: сигнал аз (0/50)
+2026-10-18 12:55:01,997 | INFO | 📊 Cycle #540 | 2 symbols
+2026-10-18 12:55:31,984 | INFO | 📊 Cycle #550 | 2 symbols
+2026-10-18 12:56:01,993 | INFO | 📊 Cycle #560 | 2 symbols
+2026-10-18 12:56:29,512 | INFO | 
+📥 Data collection...
+2026-10-18 12:56:32,027 | INFO | 📊 Cycle #570 | 2 symbols
+2026-10-18 12:56:33,956 | INFO | 😱 FG: 53
+2026-10-18 12:57:02,215 | INFO | 📊 Cycle #580 | 2 symbols
+2026-10-18 12:57:05,113 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-18 12:57:06,250 | WARNING | San status: 400
+2026-10-18 12:57:32,160 | INFO | 📊 Cycle #590 | 2 symbols
+2026-10-18 12:58:06,122 | INFO | 📊 Cycle #600 | 2 symbols
+2026-10-18 12:58:36,342 | INFO | 📊 Cycle #610 | 2 symbols
+2026-10-18 12:59:06,188 | INFO | 📊 Cycle #620 | 2 symbols
+2026-10-18 12:59:36,560 | INFO | 📊 Cycle #630 | 2 symbols
+2026-10-18 13:00:06,548 | INFO | 📊 Cycle #640 | 2 symbols
+2026-10-18 13:00:37,261 | INFO | 📊 Cycle #650 | 2 symbols
+2026-10-18 13:01:06,824 | INFO | 📊 Cycle #660 | 2 symbols
+2026-10-18 13:01:36,632 | INFO | 📊 Cycle #670 | 2 symbols
+2026-10-18 13:02:23,623 | INFO | 📊 Cycle #680 | 2 symbols
+2026-10-18 13:02:53,680 | INFO | 📊 Cycle #690 | 2 symbols
+2026-10-18 13:03:23,728 | INFO | 📊 Cycle #700 | 2 symbols
+2026-10-18 13:03:53,768 | INFO | 📊 Cycle #710 | 2 symbols
+2026-10-18 13:04:23,717 | INFO | 📊 Cycle #720 | 2 symbols
+2026-10-18 13:04:53,727 | INFO | 📊 Cycle #730 | 2 symbols
+2026-10-18 13:05:23,760 | INFO | 📊 Cycle #740 | 2 symbols
+2026-10-18 13:05:53,771 | INFO | 📊 Cycle #750 | 2 symbols
+2026-10-18 13:06:23,778 | INFO | 📊 Cycle #760 | 2 symbols
+2026-10-18 13:06:54,196 | INFO | 📊 Cycle #770 | 2 symbols
+2026-10-18 13:07:23,790 | INFO | 📊 Cycle #780 | 2 symbols
+2026-10-18 13:07:53,911 | INFO | 📊 Cycle #790 | 2 symbols
+2026-10-18 13:08:23,782 | INFO | 📊 Cycle #800 | 2 symbols
+2026-10-18 13:08:53,806 | INFO | 📊 Cycle #810 | 2 symbols
+2026-10-18 13:09:23,796 | INFO | 📊 Cycle #820 | 2 symbols
+2026-10-18 13:09:53,852 | INFO | 📊 Cycle #830 | 2 symbols
+2026-10-18 13:10:23,885 | INFO | 📊 Cycle #840 | 2 symbols
+2026-10-18 13:10:53,904 | INFO | 📊 Cycle #850 | 2 symbols
+2026-10-18 13:11:24,080 | INFO | 📊 Cycle #860 | 2 symbols
+2026-10-18 13:11:53,922 | INFO | 📊 Cycle #870 | 2 symbols
+2026-10-18 13:12:06,326 | INFO | 
+📥 Data collection...
+2026-10-18 13:12:10,918 | INFO | 😱 FG: 53
+2026-10-18 13:12:24,250 | INFO | 📊 Cycle #880 | 2 symbols
+2026-10-18 13:12:46,287 | INFO | 📊 FRED: ['DXY', 'CPI', 'UNRATE', 'FEDFUNDS', 'DGS10']
+2026-10-18 13:12:48,412 | WARNING | San status: 400
+2026-10-18 13:12:54,197 | INFO | 📊 Cycle #890 | 2 symbols
+2026-10-18 13:13:24,098 | INFO | 📊 Cycle #900 | 2 symbols
+2026-10-18 13:13:54,112 | INFO | 📊 Cycle #910 | 2 symbols
+2026-10-18 13:14:24,134 | INFO | 📊 Cycle #920 | 2 symbols
+2026-10-18 13:14:54,126 | INFO | 📊 Cycle #930 | 2 symbols
+2026-10-18 13:15:24,248 | INFO | 📊 Cycle #940 | 2 symbols
+2026-10-18 13:15:54,208 | INFO | 📊 Cycle #950 | 2 symbols
+2026-10-18 13:16:24,226 | INFO | 📊 Cycle #960 | 2 symbols
+2026-10-18 15:07:42,780 | INFO | ✅ LLM: Groq primary (openai/gpt-oss-20b)
+2026-10-18 15:11:07,646 | INFO | ✅ LLM: Groq primary (openai/gpt-oss-20b)
+2026-10-18 15:11:10,145 | INFO | ============================================================
+2026-10-18 15:11:10,146 | INFO |   🏎️ APEX v3 — 6 ҚАТАРЛЫ EDITION
+2026-10-18 15:11:10,192 | INFO | ============================================================
+2026-10-18 15:11:16,291 | INFO | MT5 OK | 5057082292 | $100000.0
+2026-10-18 15:11:16,292 | INFO | 
+📂 Күйді жүктеу...
+2026-10-18 15:11:16,304 | INFO | Жады: 2 фаза
+2026-10-18 15:11:16,325 | INFO | 🚫 Filter өшірілген: 0
+2026-10-18 15:11:16,325 | INFO | 📈 Metrics: 0W / 0L
+2026-10-18 15:11:16,511 | INFO | ✅ DB OK (Journal + Features + Metrics)
+2026-10-18 15:11:16,524 | INFO | ✅ Data DB OK
+2026-10-18 15:11:16,528 | INFO | 
+📂 Categories:
+2026-10-18 15:11:18,195 | INFO |   📂 crypto: 0/8
+2026-10-18 15:11:18,196 | INFO |   📂 metals: 2/2
+2026-10-18 15:11:18,198 | INFO |   📂 energies: 0/3
+2026-10-18 15:11:18,201 | INFO |   📂 indices: 4/6
+2026-10-18 15:11:18,203 | INFO |   📂 forex: 15/15
+2026-10-18 15:11:18,205 | INFO | ✅ Categories: 21 symbols
+2026-10-18 15:11:18,224 | INFO | 
+🎓 Learning...
+2026-10-18 15:11:18,266 | INFO | 📂 Learning: 15 паттерн (46.2с)
+2026-10-18 15:11:18,267 | INFO | 🔄 Learning жаңарту (46.2с)
+2026-10-18 15:11:18,269 | INFO | 🔄 Incremental (46.2с)...
+2026-10-18 15:11:30,241 | INFO | 
+📡 Workers іске қосылуда...
+2026-10-18 15:11:30,244 | INFO | ✅ Data collector
+2026-10-18 15:11:30,246 | INFO | ✅ Data DB OK
+2026-10-18 15:11:30,247 | INFO | ✅ ML trainer (XGBoost)
+2026-10-18 15:11:30,248 | INFO | 
+📥 Бірінші деректер жүктелуде...
+2026-10-18 15:11:30,251 | INFO | ✅ TG worker
+2026-10-18 15:11:30,286 | INFO | ✅ CB+Chat worker | Security: [528379915]
+2026-10-18 15:11:30,303 | INFO | ✅ CB worker + LLM chat | Security: [528379915]
+2026-10-18 15:11:30,309 | INFO | ✅ Heartbeat + Trailing
+2026-10-18 15:11:30,310 | INFO | ✅ LLM Brain іске қосылды
+2026-10-18 15:11:30,313 | INFO | ✅ Strategy Programmer іске қосылды
+2026-10-18 15:11:30,315 | INFO | ✅ Auto-Learn іске қосылды
+2026-10-18 15:11:30,317 | INFO | ✅ Fractal Cycle іске қосылды
+2026-10-18 15:11:30,319 | INFO | 📡 TradingView Bridge: http://0.0.0.0:8000
+2026-10-18 15:11:30,319 | INFO | ✅ TV Bridge іске қосылды (порт 8000)
+2026-10-18 15:11:30,323 | INFO | ✅ Dynamic Hedge іске қосылды
+2026-10-18 15:11:30,325 | INFO | ✅ RL agent іске қосылды
+2026-10-18 15:11:30,327 | INFO | ✅ Shazam v4 worker іске қосылды
+2026-10-18 15:11:30,328 | INFO | ✅ Ablation test іске қосылды
+2026-10-18 15:11:30,329 | INFO | 
+✅ Mode: MANUAL
+2026-10-18 15:11:30,334 | INFO | ✅ Scan: 3s | Top: 20
+2026-10-18 15:11:30,335 | INFO | ✅ Security: [528379915]
+2026-10-18 15:11:30,338 | INFO | ✅ LLM: ON
+2026-10-18 15:11:30,338 | INFO | ✅ Voice: ON
+2026-10-18 15:11:30,339 | INFO | ✅ TV Bridge: ON
+2026-10-18 15:11:30,340 | INFO | ✅ RL Agent: ON
+2026-10-18 15:11:30,341 | INFO | ✅ Hedge: ON
+2026-10-18 15:11:30,341 | INFO | ✅ Filters disabled: жоқ
+2026-10-18 15:11:30,342 | INFO | ============================================================
+2026-10-18 15:11:30,343 | INFO | 🟢 APEX v3 негізгі цикл басталды
+
+2026-10-18 15:12:01,023 | INFO | Loading faiss.
+2026-10-18 15:12:02,584 | INFO | TG: 🏎️ *APEX v3 — 6 ҚАТАРЛЫ EDITION*
+
+⚡ *1. Wyckoff En
+2026-10-18 15:12:02,692 | INFO | 😱 FG: 53
